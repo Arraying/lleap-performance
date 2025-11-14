@@ -1,0 +1,22 @@
+#
+# This data is part of the DaCapo benchmark suite.
+#
+# Please refer to https://www.dacapobench.org/ for instructions on how to
+# correctly cite this work.
+#
+# Minimum heap sizes in which the benchmark will run to completion, using
+# -Xms<x> -Xmx<x> for various x and various configuarations.  Discovered
+# by bisection search.  Numbers below are in MB and reflect results of
+# five trials.
+#
+temurin-21.sz-default.cp.gc-G1.t-32.n-1: [173, 173, 173, 175, 175]               # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-02676f3d.jar -n 1 graphchi -f 10 -s default -t 32
+temurin-21.sz-default.cp.gc-G1.t-32.n-5: [175, 175, 175, 175, 175]               # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-02676f3d.jar -n 5 graphchi -f 10 -s default -t 32
+temurin-21.sz-default.cp.gc-G1.t-32.n-10: [175, 175, 175, 175, 175]              # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-02676f3d.jar -n 10 graphchi -f 10 -s default -t 32
+temurin-21.sz-small.cp.gc-G1.t-1.n-1: [141, 141, 141, 141, 141]                  # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-02676f3d.jar -n 1 graphchi -f 10 -s small -t 1
+temurin-21.sz-large.cp.gc-G1.t-32.n-1: [1152, 1173, 1183, 1186, 1196]            # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-02676f3d.jar -n 1 graphchi -f 10 -s large -t 32
+temurin-21.sz-default.cp.gc-G1.t-1.n-1: [173, 173, 173, 174, 174]                # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-02676f3d.jar -n 1 graphchi -f 10 -s default -t 1
+temurin-21.sz-default.up.gc-G1.t-32.n-1: [179, 179, 179, 179, 179]               # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:-UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-02676f3d.jar -n 1 graphchi -f 10 -s default -t 32
+temurin-21.sz-default.cp.gc-Parallel.t-32.n-1: [199, 199, 199, 199, 199]         # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:+UseCompressedOops -XX:+UseParallelGC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-02676f3d.jar -n 1 graphchi -f 10 -s default -t 32
+temurin-17.sz-default.cp.gc-G1.t-32.n-1: [179, 180, 181, 181, 182]               # temurin-17-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-02676f3d.jar -n 1 graphchi -f 10 -s default -t 32
+temurin-11.sz-default.cp.gc-G1.t-32.n-1: [178, 179, 179, 179, 180]               # temurin-11-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-02676f3d.jar -n 1 graphchi -f 10 -s default -t 32
+temurin-8.sz-default.cp.gc-G1.t-32.n-1: [171, 171, 171, 173, 174]                # temurin-8-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-02676f3d.jar -n 1 graphchi -f 10 -s default -t 32

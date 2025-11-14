@@ -1,0 +1,21 @@
+#
+# This data is part of the DaCapo benchmark suite.
+#
+# Please refer to https://www.dacapobench.org/ for instructions on how to
+# correctly cite this work.
+#
+# Minimum heap sizes in which the benchmark will run to completion, using
+# -Xms<x> -Xmx<x> for various x and various configuarations.  Discovered
+# by bisection search.  Numbers below are in MB and reflect results of
+# five trials.
+#
+temurin-21.sz-default.cp.gc-G1.t-32.n-1: [121, 128, 130, 131, 132]            # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -Djava.security.manager=allow -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-cb0048d8.jar -n 1 cassandra -f 10 -s default -t 32
+temurin-21.sz-default.cp.gc-G1.t-32.n-5: [157, 163, 174, 174, 175]            # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -Djava.security.manager=allow -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-cb0048d8.jar -n 5 cassandra -f 10 -s default -t 32
+temurin-21.sz-default.cp.gc-G1.t-32.n-10: [161, 173, 177, 194, 194]           # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -Djava.security.manager=allow -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-cb0048d8.jar -n 10 cassandra -f 10 -s default -t 32
+temurin-21.sz-small.cp.gc-G1.t-1.n-1: [77, 77, 77, 77, 78]                    # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -Djava.security.manager=allow -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-cb0048d8.jar -n 1 cassandra -f 10 -s small -t 1
+temurin-21.sz-large.cp.gc-G1.t-32.n-1: [174, 174, 174, 178, 180]              # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -Djava.security.manager=allow -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-cb0048d8.jar -n 1 cassandra -f 10 -s large -t 32
+temurin-21.sz-default.cp.gc-G1.t-1.n-1: [99, 99, 100, 100, 102]               # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -Djava.security.manager=allow -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-cb0048d8.jar -n 1 cassandra -f 10 -s default -t 1
+temurin-21.sz-default.up.gc-G1.t-32.n-1: [140, 141, 142, 146, 148]            # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -Djava.security.manager=allow -XX:-UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-cb0048d8.jar -n 1 cassandra -f 10 -s default -t 32
+temurin-21.sz-default.cp.gc-Parallel.t-32.n-1: [119, 122, 122, 123, 126]      # temurin-21-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -Djava.security.manager=allow -XX:+UseCompressedOops -XX:+UseParallelGC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-cb0048d8.jar -n 1 cassandra -f 10 -s default -t 32
+temurin-17.sz-default.cp.gc-G1.t-32.n-1: [123, 128, 132, 132, 132]            # temurin-17-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -Djava.security.manager=allow -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-cb0048d8.jar -n 1 cassandra -f 10 -s default -t 32
+temurin-11.sz-default.cp.gc-G1.t-32.n-1: [123, 124, 125, 131, 132]            # temurin-11-jdk-amd64/bin/java -XX:+ExitOnOutOfMemoryError -server -XX:+UseCompressedOops -XX:+UseG1GC -Xms<?> -Xmx<?> -jar dacapo-evaluation-git-cb0048d8.jar -n 1 cassandra -f 10 -s default -t 32

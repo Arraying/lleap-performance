@@ -1,0 +1,44 @@
+#
+# This data is part of the DaCapo benchmark suite.
+#
+# Please refer to https://www.dacapobench.org/ for instructions on how to
+# correctly cite this work.
+#
+# Total, user and kernel time in milliseconds for the final (10th)
+# iteration of the benchmark when run at 2.0 times the minimum heap
+# size with the default G1 collector on a 32 way machine.
+#
+# Total time represents the wall clock time.
+# User and kernel time are integrated across all threads, so their sum
+# reflects the total integrated running time.
+#
+# For example, the triple '3534, 50975, 13496' indicates a wall clock
+# of 3.532ms, user time of 50.975ms, kernel time of 13.496ms, so the
+# benchmark had 64.471/3.532 = 18.25 utilization on the 32 core machine
+# (about 57% parallel efficiency).
+#
+# Multiple invocations are reported.  These reflect the distribution
+# (variance) of the workload across invocations.  Missing data reflects
+# the workload failing to complete with that configuration.
+#
+# These results were gathered using the following DaCapo version:
+#    dacapo-evaluation-git-071e5040
+#
+# Unless otherwise noted, the following JVM was used:
+#    Temurin-21.0.4+7
+#
+# Unless otherwise noted, results were generated on the following platform:
+#    AMD Ryzen 9 7950X 16/32 4.5GHz cores, Linux 6.8.0-40
+#
+open-jdk-21.server.G1.t-32:
+  2.0:
+    - [ 1140, 1734, 13 ]
+    - [ 1130, 1835, 18 ]
+    - [ 1133, 1685, 15 ]
+    - [ 1133, 1662, 13 ]
+    - [ 1131, 1574, 4 ]
+    - [ 1132, 1767, 5 ]
+    - [ 1140, 1728, 8 ]
+    - [ 1125, 1667, 8 ]
+    - [ 1127, 1720, 10 ]
+    - [ 1143, 1792, 13 ]

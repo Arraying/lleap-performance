@@ -1,0 +1,29 @@
+#
+# This data is part of the DaCapo benchmark suite.
+#
+# Please refer to https://www.dacapobench.org/ for instructions on how to
+# correctly cite this work.
+#
+# This data summarizes GC logs gathered over 10 interations of the benchmark,
+# for different heap sizes.  For each heap size, a list of tuples is given.
+# Each tuple presents the start time (sec), the minimum heap size (MB),
+# and the pause time (ms) for the respective GC.
+#
+# For example, the tuple [7.218, 16, 0.94] reports a GC that started at
+# 7.218s into the program execution, that resulted in a post-GC heap size
+# of 16MB, and that took 0.94ms.
+#
+# The heap sizes are reported as mulitples of the minimum heap size for the
+# benchmkark (1.0 means 1.0 x the min heap).
+#
+# These results were gathered using the following DaCapo version:
+#    dacapo-evaluation-git-071e5040
+#
+# The following JVM was used:
+#    Temurin-21.0.4+7
+#
+# Results were generated on the following platform:
+#    AMD Ryzen 9 7950X 16/32 4.5GHz cores, Linux 6.8.0-40
+#
+#
+  2.0: [[0.167, 3, 1.397], [0.266, 2, 0.594], [0.31, 2, 3.46], [0.959, 19, 2.119], [1.176, 37, 1.418], [1.307, 232, 1.889], [1.317, 236, 0.834], [1.325, 128, 0.849], [1.328, 133, 0.082], [1.458, 122, 1.029], [1.548, 4, 5.691], [1.674, 29, 1.23], [1.811, 65, 0.882], [1.901, 68, 1.218], [1.909, 87, 0.72], [1.909, 89, 0.043], [2.054, 45, 1.079], [2.121, 4, 5.085], [2.238, 17, 1.031], [2.369, 72, 0.912], [2.457, 70, 1.211], [2.612, 48, 1.181], [2.673, 4, 4.883], [2.79, 21, 1.248], [2.925, 68, 0.908], [3.014, 70, 1.284], [3.164, 45, 1.111], [3.233, 4, 5.166], [3.345, 21, 1.185], [3.48, 69, 0.94], [3.573, 68, 1.125], [3.731, 48, 1.063], [3.795, 4, 5.297], [3.912, 20, 1.103], [4.044, 74, 0.851], [4.131, 68, 1.182], [4.284, 47, 1.102], [4.35, 4, 5.264], [4.463, 22, 1.288], [4.593, 71, 0.964], [4.68, 70, 1.229], [4.681, 71, 1.027], [4.83, 45, 1.026], [4.899, 4, 4.931], [5.009, 22, 1.284], [5.135, 71, 0.906], [5.221, 69, 1.267], [5.371, 48, 1.263], [5.451, 4, 5.375], [5.559, 19, 1.23], [5.687, 71, 0.932], [5.772, 69, 1.172], [5.92, 47, 1.101], [5.992, 4, 5.298], [6.101, 19, 1.179], [6.228, 71, 0.946], [6.313, 70, 1.169], [6.464, 43, 1.084]]
