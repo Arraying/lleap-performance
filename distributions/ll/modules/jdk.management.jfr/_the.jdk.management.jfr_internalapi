@@ -1,0 +1,15 @@
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/EventTypeInfo.java=DAF8936F3271AB79B8CABD7BFEFF762E
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/FileDump.java=01A2176C7C5CA149279D1E05D80B9778
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/DiskRepository.java=050198FA92AA7F521BDF3BA4C0BD9E37
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/DownLoadThread.java=CED1D4AB44F280962B54FC6298FE72F4
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/RemoteRecordingStream.java=52DE4603A7257D2FFFBE887B726A5024
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/FlightRecorderMXBean.java=ECC63FA29973563F729606FED2D8E1B0
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/ConfigurationInfo.java=209455BDCBA5F0761BA05A280A29AE45
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/SettingDescriptorInfo.java=A18E36471B93DD0BF2748141BB54EDF7
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/internal/FlightRecorderMXBeanProvider.java=B9FE74BAA6D7FA345615AB5D28CC2F4D
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/MBeanUtils.java=63DDC5101E505513BCFA6C5DA3BD8AE4
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/package-info.java=D1EAD9B371DF8611794E9C450CC26C58
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/module-info.java=ED9CC8D55CB36F6B03CE15982E75B893
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/Stringifier.java=3E63ACC01AC6A92BFB39CAD5B2C8C974
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/FlightRecorderMXBeanImpl.java=6D8A1F087A9B57C75056A0B5853AB3DB
+/home/ph/jdks/lovelace/src/jdk.management.jfr/share/classes/jdk/management/jfr/RecordingInfo.java=736A56CAA4A471C2A737967C296EC79A

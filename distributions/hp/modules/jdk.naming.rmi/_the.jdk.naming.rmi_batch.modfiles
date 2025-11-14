@@ -1,0 +1,14 @@
+/home/ph/jdks/hopper/src/jdk.naming.rmi/share/classes/com/sun/jndi/rmi/registry/ReferenceWrapper.java
+/home/ph/jdks/hopper/src/jdk.naming.rmi/share/classes/com/sun/jndi/rmi/registry/ReferenceWrapper_Stub.java
+/home/ph/jdks/hopper/src/jdk.naming.rmi/share/classes/com/sun/jndi/rmi/registry/RegistryContext.java
+/home/ph/jdks/hopper/src/jdk.naming.rmi/share/classes/com/sun/jndi/rmi/registry/RegistryContextFactory.java
+/home/ph/jdks/hopper/src/jdk.naming.rmi/share/classes/com/sun/jndi/rmi/registry/RemoteReference.java
+/home/ph/jdks/hopper/src/jdk.naming.rmi/share/classes/com/sun/jndi/url/rmi/rmiURLContext.java
+/home/ph/jdks/hopper/src/jdk.naming.rmi/share/classes/com/sun/jndi/url/rmi/rmiURLContextFactory.java
+/home/ph/jdks/hopper/src/jdk.naming.rmi/share/classes/module-info.java
+/home/ph/jdks/hopper/build/linux-x86_64-server-release/jdk/modules/jdk.naming.rmi/_the.jdk.naming.rmi.vardeps
+/home/ph/jdks/hopper/build/linux-x86_64-server-release/buildtools/depend/_the.COMPILE_DEPEND_batch
+/home/ph/jdks/hopper/build/linux-x86_64-server-release/jdk/modules/jdk.naming.rmi/_the.jdk.naming.rmi-javacserver.conf
+/home/ph/jdks/hopper/build/linux-x86_64-server-release/jdk/modules/java.base/_the.java.base_pubapi
+/home/ph/jdks/hopper/build/linux-x86_64-server-release/jdk/modules/java.naming/_the.java.naming_pubapi
+/home/ph/jdks/hopper/build/linux-x86_64-server-release/jdk/modules/java.rmi/_the.java.rmi_pubapi

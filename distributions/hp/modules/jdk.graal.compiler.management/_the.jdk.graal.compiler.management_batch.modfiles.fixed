@@ -1,0 +1,6 @@
+/home/ph/jdks/hopper/src/jdk.graal.compiler.management/share/classes/module-info.java
+/home/ph/jdks/hopper/build/linux-x86_64-server-release/jdk/modules/jdk.graal.compiler.management/_the.jdk.graal.compiler.management.vardeps
+/home/ph/jdks/hopper/build/linux-x86_64-server-release/buildtools/depend/_the.COMPILE_DEPEND_batch
+/home/ph/jdks/hopper/build/linux-x86_64-server-release/jdk/modules/jdk.graal.compiler.management/_the.jdk.graal.compiler.management-javacserver.conf
+/home/ph/jdks/hopper/build/linux-x86_64-server-release/jdk/modules/java.base/_the.java.base_pubapi
+/home/ph/jdks/hopper/build/linux-x86_64-server-release/jdk/modules/jdk.internal.vm.ci/_the.jdk.internal.vm.ci_pubapi

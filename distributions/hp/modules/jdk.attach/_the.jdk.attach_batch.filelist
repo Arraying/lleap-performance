@@ -1,0 +1,15 @@
+/home/ph/jdks/hopper/src/jdk.attach/linux/classes/sun/tools/attach/AttachProviderImpl.java
+/home/ph/jdks/hopper/src/jdk.attach/linux/classes/sun/tools/attach/VirtualMachineImpl.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/com/sun/tools/attach/AgentInitializationException.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/com/sun/tools/attach/AgentLoadException.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/com/sun/tools/attach/AttachNotSupportedException.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/com/sun/tools/attach/AttachOperationFailedException.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/com/sun/tools/attach/AttachPermission.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/com/sun/tools/attach/VirtualMachine.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/com/sun/tools/attach/VirtualMachineDescriptor.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/com/sun/tools/attach/package-info.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/com/sun/tools/attach/spi/AttachProvider.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/com/sun/tools/attach/spi/package-info.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/module-info.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/sun/tools/attach/HotSpotAttachProvider.java
+/home/ph/jdks/hopper/src/jdk.attach/share/classes/sun/tools/attach/HotSpotVirtualMachine.java

@@ -1,0 +1,13 @@
+/home/ph/jdks/lovelace/src/jdk.net/linux/classes/jdk/net/LinuxSocketOptions.java
+/home/ph/jdks/lovelace/src/jdk.net/share/classes/jdk/net/ExtendedSocketOptions.java
+/home/ph/jdks/lovelace/src/jdk.net/share/classes/jdk/net/NetworkPermission.java
+/home/ph/jdks/lovelace/src/jdk.net/share/classes/jdk/net/Sockets.java
+/home/ph/jdks/lovelace/src/jdk.net/share/classes/jdk/net/UnixDomainPrincipal.java
+/home/ph/jdks/lovelace/src/jdk.net/share/classes/jdk/net/package-info.java
+/home/ph/jdks/lovelace/src/jdk.net/share/classes/jdk/nio/Channels.java
+/home/ph/jdks/lovelace/src/jdk.net/share/classes/jdk/nio/package-info.java
+/home/ph/jdks/lovelace/src/jdk.net/share/classes/module-info.java
+/home/ph/jdks/lovelace/build/linux-x86_64-server-release/jdk/modules/jdk.net/_the.jdk.net.vardeps
+/home/ph/jdks/lovelace/build/linux-x86_64-server-release/buildtools/depend/_the.COMPILE_DEPEND_batch
+/home/ph/jdks/lovelace/build/linux-x86_64-server-release/jdk/modules/jdk.net/_the.jdk.net-javacserver.conf
+/home/ph/jdks/lovelace/build/linux-x86_64-server-release/jdk/modules/java.base/_the.java.base_pubapi
