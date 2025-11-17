@@ -3,6 +3,9 @@
 This is a quick start guide on the workshop.
 If you have any questions, **please ask**!
 
+This repository is intended to run in a Linux x64 Codespace.
+Anything else may not work.
+
 Codespaces sometimes shows notifications, such as when the CPU utilization is high, there are too many files for Git to track, or when it wants you to install a language-specific extension. These can be ignored.
 
 ## Exercise 1: Benchmarking
