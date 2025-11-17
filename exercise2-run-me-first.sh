@@ -2,11 +2,11 @@
 
 # Dependencies
 echo "Installing sound dependencies"
-sudo apt-get install libasound2-dev
+sudo apt-get install -y libasound2-dev
 echo "Installing printer dependencies"
-sudo apt-get install libcups2-dev
+sudo apt-get install -y libcups2-dev
 echo "Installing X11 dependencies"
-sudo apt-get install libx11-dev libxext-dev libxrender-dev libxrandr-dev libxtst-dev libxt-dev
+sudo apt-get install -y libx11-dev libxext-dev libxrender-dev libxrandr-dev libxtst-dev libxt-dev
 
 # Boot JDK
 echo "Downloading boot JDK"

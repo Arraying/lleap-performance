@@ -1,0 +1,3 @@
+#!/bin/bash
+export JAVA_HOME=./jdk/build/linux-x86_64-server-release/jdk
+./jdk/build/linux-x86_64-server-release/jdk/bin/javac "$@"
