@@ -88,8 +88,7 @@ Once you've made your changes, you can build the binaries. **This will take 20-4
 We recommend to rebuild sparingly.
 ```
 cd jdk/
-bash configure
-make hotspot
+make images
 ```
 
 
