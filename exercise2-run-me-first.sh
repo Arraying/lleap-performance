@@ -10,14 +10,17 @@ sudo apt-get install libx11-dev libxext-dev libxrender-dev libxrandr-dev libxtst
 
 # Boot JDK
 echo "Downloading boot JDK"
-wget --no-check-certificate https://download.oracle.com/java/25/latest/jdk-25_linux-x64_bin.tar.gz
+mkdir ./support &&
+cd ./support
+curl -k -o jdk-25_linux-x64_bin.tar.gz https://download.oracle.com/java/25/latest/jdk-25_linux-x64_bin.tar.gz
 echo "Unpacking the boot JDK"
 tar -xvf jdk-25_linux-x64_bin.tar.gz
 echo "Cleaning the boot JDK"
 rm jdk-25_linux-x64_bin.tar.gz
+cd ..
 
 # Incremental build
 echo "Incrementally building initial JDK"
-cd jdk/
+cd ./jdk
 make images
 
