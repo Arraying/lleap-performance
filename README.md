@@ -70,24 +70,30 @@ We have a custom JDK for you to modify in `jdk/`.
 
 #### Step 1: Setting up the required files
 
-Due to filesize limitations, we can't bundle everything in the codespace.
-Running the following script is **required before doing anything**
-
-You have to **set up your codespace** before you can modify it:
+You have to **set up your codespace** before you can build the JDK:
 
 ```
 ./exercise2-run-me-first.sh
 ```
 
+#### Step 2: Adding your flag values and building the JDK
+
+The flag defaults are in `src/hotspot/share/gc/shared/tlab_globals.hpp`.
+You can update these values using your editor.
+
+Once you've made your changes, you can build the binaries. **This will take 20-45 minutes!**
+We recommend to rebuild sparingly.
 ```
-sudo apt-get install libasound2-dev
-sudo apt-get install libcups2-dev
-sudo apt-get install libx11-dev libxext-dev libxrender-dev libxrandr-dev libxtst-dev libxt-dev
+cd jdk/
+bash configure
+make hotspot
 ```
 
-This may take a decently long time.
 
-#### Step 2: Getting familiar with the local build
+There is more information in the `README.md` inside the JDK directory for in-depth information on building the JDK.
+We've already pre-configured and pre-built parts of the JDK to improve your build times.
+
+#### Step 3: Runing the final build
 
 The JDK is based on JDK-26+23, like the others.
 You can run Java with the `./my-java` and `./my-javac` scripts, which wrap `java` and `javac`, respectively.
@@ -98,19 +104,7 @@ Verify that your installation works:
 ./my-javac -version
 ```
 
-#### Step 3: Performning modifications
-
-The flag defaults are in `src/hotspot/share/gc/shared/tlab_globals.hpp`.
-You can update these values using your editor.
-
-Once you've made your changes, you can rebuild the binaries. **This will take 10-25 minutes!**
-We recommend to rebuild sparingly.
+Verify that your TLAB flags are active:
 ```
-cd jdk/
-make hotspot
+./my-java -XX:+PrintFlagsFinal -version
 ```
-
-Verify that your defaults have been updated by printing the flags of `./my-java`.
-
-There is more information in the `README.md` inside the JDK directory for in-depth information on building the JDK.
-We've already pre-configured and pre-built parts of the JDK to improve your build times.
