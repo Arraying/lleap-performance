@@ -64,14 +64,30 @@ Simply add them before the `-jar`, e.g. with the G1 flag:
 
 ### Hacking the JDK
 
+> 🚨 This part is finicky (we are experimenting with incremental builds in codespaces). We have [fallback options available](https://cr.openjdk.org/~phubner/lleap-perf/) in case the steps here don't work.
+
 We have a custom JDK for you to modify in `jdk/`.
 
+#### Step 1: Setting up the required files
+
+Due to filesize limitations, we can't bundle everything in the codespace.
+Running the following script is **required before doing anything**
+
 You have to **set up your codespace** before you can modify it:
+
+```
+./exercise2-run-me-first.sh
+```
+
 ```
 sudo apt-get install libasound2-dev
 sudo apt-get install libcups2-dev
 sudo apt-get install libx11-dev libxext-dev libxrender-dev libxrandr-dev libxtst-dev libxt-dev
 ```
+
+This may take a decently long time.
+
+#### Step 2: Getting familiar with the local build
 
 The JDK is based on JDK-26+23, like the others.
 You can run Java with the `./my-java` and `./my-javac` scripts, which wrap `java` and `javac`, respectively.
@@ -81,6 +97,8 @@ Verify that your installation works:
 ./my-java -version
 ./my-javac -version
 ```
+
+#### Step 3: Performning modifications
 
 The flag defaults are in `src/hotspot/share/gc/shared/tlab_globals.hpp`.
 You can update these values using your editor.
