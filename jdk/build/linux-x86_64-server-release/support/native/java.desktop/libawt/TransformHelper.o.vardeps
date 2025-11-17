@@ -1,0 +1,1 @@
+BUILD_LIBAWT_TransformHelper.c_VARDEPS_old := -Wno-sign-compare

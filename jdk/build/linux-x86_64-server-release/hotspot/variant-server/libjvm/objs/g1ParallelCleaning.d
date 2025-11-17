@@ -1,0 +1,20 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/g1ParallelCleaning.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/g1/g1ParallelCleaning.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/g1/g1ParallelCleaning.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/parallelCleaning.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/classLoaderDataGraph.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/classLoaderData.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/growableArray.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/codeCache.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/oopStorageParState.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cppstdlib/type_traits.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/oopStorage.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/workerThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/jvmci/jvmci.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/compiler_globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/compilerDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/exceptions.hpp

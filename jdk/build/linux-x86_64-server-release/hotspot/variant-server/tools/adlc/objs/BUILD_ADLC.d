@@ -1,0 +1,210 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/adlArena.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/adlparse.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/archDesc.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/dfa.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dfa.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/dict2.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/filebuff.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/forms.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/formsopt.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/formssel.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/main.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/main.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/opcodes.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/output_c.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/output_c.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/output_h.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/output_h.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp
+/home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/dfa.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/forms.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/main.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/output_c.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/adlc/output_h.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp :

@@ -1,0 +1,15 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.crypto.cryptoki/libj2pkcs11/p11_sessmgmt.o: \
+ /home/ph/jdks/jdk/src/jdk.crypto.cryptoki/share/native/libj2pkcs11/p11_sessmgmt.c \
+ /home/ph/jdks/jdk/src/jdk.crypto.cryptoki/share/native/libj2pkcs11/pkcs11wrapper.h \
+ /home/ph/jdks/jdk/src/jdk.crypto.cryptoki/unix/native/libj2pkcs11/p11_md.h \
+ /home/ph/jdks/jdk/src/jdk.crypto.cryptoki/share/native/libj2pkcs11/pkcs11.h \
+ /home/ph/jdks/jdk/src/jdk.crypto.cryptoki/share/native/libj2pkcs11/pkcs11t.h \
+ /home/ph/jdks/jdk/src/jdk.crypto.cryptoki/share/native/libj2pkcs11/pkcs11f.h \
+ /home/ph/jdks/jdk/src/jdk.crypto.cryptoki/share/native/libj2pkcs11/pkcs11gcm2.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.crypto.cryptoki/sun_security_pkcs11_wrapper_PKCS11.h

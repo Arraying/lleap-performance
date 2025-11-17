@@ -1,0 +1,8 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/safefetch_static_posix.o: \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/safefetch_static_posix.cpp \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/os_posix.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/safefetch.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/safefetch_static.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp

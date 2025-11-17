@@ -1,0 +1,1 @@
+optimize_image_VARDEPS_old := /home/ph/jdks/jdk/build/linux-x86_64-server-release/jdk/bin/java -Xms64M -Xmx2048M -cp /home/ph/jdks/jdk/build/linux-x86_64-server-release/buildtools/tools_jigsaw_classes --add-exports java.base/jdk.internal.module=ALL-UNNAMED build.tools.jigsaw.AddPackagesAttribute /home/ph/jdks/jdk/build/linux-x86_64-server-release/jdk

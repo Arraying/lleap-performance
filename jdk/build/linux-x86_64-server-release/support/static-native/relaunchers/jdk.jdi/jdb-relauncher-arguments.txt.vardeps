@@ -1,0 +1,1 @@
+jdb_VARDEPS_old := -DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=jdb -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jdi/com.sun.tools.example.debug.tty.TTY

@@ -1,0 +1,14 @@
+digraph "java.prefs" {
+  nodesep=0.500000;
+  ranksep=0.600000;
+  pencolor=transparent;
+  node [shape=plaintext, fontcolor="#000000", fontname="DejaVuSans", fontsize=12, margin=".2, .2"];
+  edge [penwidth=2, color="#a9a9a9", arrowhead=open, arrowsize=1];
+  subgraph se {
+  "java.base" [fontcolor="#e76f00", group=java];
+  "java.prefs" [fontcolor="#e76f00", group=java];
+  }
+  subgraph jdk {
+  }
+  "java.prefs" -> "java.base" [color="#dddddd", weight=10];
+}

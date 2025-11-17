@@ -1,0 +1,29 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/templateInterpreterGenerator.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/templateInterpreterGenerator.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/disassembler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/asm/assembler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/codeBlob.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/nmethod.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/abstractDisassembler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/cpu/x86/disassembler_x86.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/interp_masm.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/interpreter.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/interpreterRuntime.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/bytecode.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/bytecodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/method.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/bytes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/linkResolver.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/frame.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/javaThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/signature.hpp \
+ /home/ph/jdks/jdk/src/hotspot/cpu/x86/interpreterRT_x86.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/templateInterpreter.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/templateInterpreterGenerator.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/templateTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/methodData.hpp

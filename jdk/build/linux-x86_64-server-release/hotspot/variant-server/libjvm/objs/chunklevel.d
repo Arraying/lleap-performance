@@ -1,0 +1,7 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/chunklevel.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/chunklevel.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/chunklevel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/powerOfTwo.hpp

@@ -1,0 +1,17 @@
+/home/ph/jdks/jdk/src/hotspot/share/logging/logSelectionList.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logSelectionList.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logConfiguration.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logFileStreamOutput.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logDecorators.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logOutput.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logLevel.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logMessageBuffer.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logSelection.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logTag.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logTagSet.hpp :

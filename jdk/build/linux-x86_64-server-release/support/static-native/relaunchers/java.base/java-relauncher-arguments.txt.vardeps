@@ -1,0 +1,1 @@
+java_VARDEPS_old := -DjavaLauncherProgname=java

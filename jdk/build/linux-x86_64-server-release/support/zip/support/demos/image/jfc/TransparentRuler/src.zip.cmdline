@@ -1,0 +1,1 @@
+(cd /home/ph/jdks/jdk/src/demo/share/jfc/TransparentRuler/ && /usr/bin/zip -qru /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/demos/image/jfc/TransparentRuler/src.zip . -x \*_the.\* || test "$?" = "12" )

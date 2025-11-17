@@ -1,0 +1,10 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/freeListAllocator.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/freeListAllocator.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/freeListAllocator.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalCounter.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalCounter.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/padded.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/javaThread.hpp

@@ -1,0 +1,13 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/g1MMUTracker.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/g1/g1MMUTracker.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/g1/g1MMUTracker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/gcId.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/g1/g1Trace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/g1/g1GCPauseType.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/enumIterator.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/gcTrace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp

@@ -1,0 +1,1 @@
+jshell_VARDEPS_old := -DjavaLauncherArgFiles=false -DjavaLauncherProgname=jshell -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jshell/jdk.internal.jshell.tool.JShellToolProvider

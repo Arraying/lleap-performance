@@ -1,0 +1,1426 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/AlphaMacros.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/AlphaMath.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Any3Byte.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Any3Byte.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Any3Byte.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Any4Byte.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Any4Byte.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Any4Byte.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/AnyByte.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByte.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByte.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/AnyInt.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyInt.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyInt.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/AnyShort.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyShort.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyShort.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Blit.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Blit.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/utility/rect.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_Blit.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/BlitBg.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/BlitBg.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/utility/rect.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_BlitBg.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/BufImgSurfaceData.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/BufImgSurfaceData.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/BufImgSurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_BufImgSurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/img_util_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/color.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Disposer.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/BufferedMaskBlit.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/BufferedMaskBlit.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedMaskBlit.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedOpCodes.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntBgr.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/BufferedRenderPipe.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/BufferedRenderPipe.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedRenderPipe.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedOpCodes.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/ByteBinary1Bit.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary1Bit.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary1Bit.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByteBinary.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/ByteBinary2Bit.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary2Bit.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary2Bit.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByteBinary.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/ByteBinary4Bit.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary4Bit.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary4Bit.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByteBinary.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/ByteGray.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByte.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index8Gray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index12Gray.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/ByteIndexed.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByte.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index12Gray.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/DataBufferNative.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/DataBufferNative.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_DataBufferNative.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Disposer.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Disposer.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Disposer.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/DrawLine.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawLine.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_DrawLine.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/DrawParallelogram.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawParallelogram.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ParallelogramUtils.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_DrawParallelogram.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/DrawPath.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawPath.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ProcessPath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawPath.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_DrawPath.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/DrawPolygons.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawPolygons.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_DrawPolygons.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/DrawRect.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawRect.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_DrawRect.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/FillParallelogram.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FillParallelogram.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ParallelogramUtils.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_FillParallelogram.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/FillPath.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FillPath.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ProcessPath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawPath.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_FillPath.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/FillRect.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FillRect.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_FillRect.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/FillSpans.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FillSpans.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_FillSpans.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/FourByteAbgr.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FourByteAbgr.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Any4Byte.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FourByteAbgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/FourByteAbgrPre.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FourByteAbgrPre.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Any4Byte.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FourByteAbgrPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/GraphicsPrimitiveMgr.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/utility/rect.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Index12Gray.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index12Gray.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyShort.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index12Gray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index8Gray.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Index8Gray.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index8Gray.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByte.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index8Gray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index12Gray.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/IntArgb.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyInt.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index12Gray.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/IntArgbBm.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyInt.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/IntArgbPre.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyInt.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/IntBgr.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntBgr.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyInt.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index8Gray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index12Gray.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/IntRgb.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyInt.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index12Gray.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/ub.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/IntRgbx.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgbx.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyInt.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgbx.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/MaskBlit.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/MaskBlit.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/utility/rect.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_MaskBlit.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/MaskFill.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/MaskFill.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ParallelogramUtils.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_MaskFill.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/ProcessPath.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ProcessPath.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_geom_PathIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ProcessPath.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Region.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/utility/rect.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/utility/sizecalc.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/ScaledBlit.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ScaledBlit.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/utility/rect.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_ScaledBlit.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/ShapeSpanIterator.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/ShapeSpanIterator.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/PathConsumer2D.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_ShapeSpanIterator.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_geom_PathIterator.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/ub.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/SpanClipRenderer.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanClipRenderer.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_SpanClipRenderer.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/SurfaceData.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Disposer.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/ThreeByteBgr.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Any3Byte.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Trace.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/TransformHelper.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/TransformHelper.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/utility/rect.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_TransformHelper.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_AffineTransformOp.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/ub.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Ushort4444Argb.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort4444Argb.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyShort.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort4444Argb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Ushort555Rgb.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort555Rgb.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyShort.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort555Rgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Ushort555Rgbx.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort555Rgbx.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyShort.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort555Rgbx.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/Ushort565Rgb.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort565Rgb.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyShort.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort565Rgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort4444Argb.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/UshortGray.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyShort.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/UshortIndexed.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortIndexed.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByte.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortIndexed.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index12Gray.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/awt_ImageRep.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/awt_ImageRep.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/awt_parseImage.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/imageInitIDs.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_ImageRepresentation.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/awt_ImagingLib.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/medialib/awt_ImagingLib.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_ImagingLib.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Transparency.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_AffineTransformOp.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_BufferedImage.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_color_ColorSpace.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_ConvolveOp.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_IntegerComponentRaster.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/medialib/awt_ImagingLib.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_types.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_status.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_image_types.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_image_get.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/awt_parseImage.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/imageInitIDs.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_Mlib.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/medialib/awt_ImagingLib.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/safe_alloc.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/safe_math.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_types.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/awt_LoadLibrary.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/awt/awt_LoadLibrary.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/awt_Mlib.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/awt/awt_Mlib.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_Mlib.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/medialib/awt_ImagingLib.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_types.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_status.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_image_types.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_image_get.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_BufferedImage.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/awt_parseImage.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/awt_parseImage.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/awt_parseImage.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/imageInitIDs.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Transparency.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_BufferedImage.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_IntegerComponentRaster.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_ImagingLib.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_color_ColorSpace.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_Mlib.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/medialib/awt_ImagingLib.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_types.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_status.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_image_types.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_image_get.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/safe_alloc.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/safe_math.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_types.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/debug_assert.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/debug_mem.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/debug_trace.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/debug_util.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/dither.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/dither.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/dither.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/gifdecoder.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/gif/gifdecoder.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/imageInitIDs.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/imageInitIDs.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/img_colors.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_colors.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_colors.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/img_globals.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_IndexColorModel.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Transparency.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/initIDs.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/awt/initIDs.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Dimension.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_MenuBar.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_FontMetrics.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_event_MouseEvent.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_ScrollPaneAdjustable.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Toolkit.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_CheckboxMenuItem.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt/systemScale.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/systemscale/systemScale.c \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/systemscale/systemScale.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_CheckboxMenuItem.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Dimension.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_FontMetrics.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_MenuBar.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_ScrollPaneAdjustable.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Toolkit.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Transparency.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_color_ColorSpace.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_event_MouseEvent.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_geom_PathIterator.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_AffineTransformOp.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_BufferedImage.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_ConvolveOp.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_IndexColorModel.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_BufImgSurfaceData.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_DataBufferNative.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_ImageRepresentation.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_ImagingLib.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_image_IntegerComponentRaster.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_Blit.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_BlitBg.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_DrawLine.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_DrawParallelogram.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_DrawPath.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_DrawPolygons.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_DrawRect.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_FillParallelogram.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_FillPath.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_FillRect.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_FillSpans.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_GraphicsPrimitiveMgr.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_MaskBlit.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_MaskFill.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_ScaledBlit.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_loops_TransformHelper.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedMaskBlit.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedOpCodes.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedRenderPipe.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_ShapeSpanIterator.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_SpanClipRenderer.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h :
+/home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/ub.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/utility/sizecalc.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/BufImgSurfaceData.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/BufImgSurfaceData.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/DataBufferNative.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/awt_ImageRep.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/awt_parseImage.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/awt_parseImage.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_colors.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_colors.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/dither.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/dither.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/gif/gifdecoder.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/imageInitIDs.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/imageInitIDs.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/medialib/awt_ImagingLib.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/medialib/awt_ImagingLib.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Disposer.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Disposer.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMacros.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Any3Byte.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Any3Byte.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Any4Byte.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Any4Byte.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByte.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByte.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyByteBinary.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyInt.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyInt.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyShort.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AnyShort.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Blit.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/BlitBg.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary1Bit.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary1Bit.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary2Bit.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary2Bit.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary4Bit.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteBinary4Bit.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteGray.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ByteIndexed.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawLine.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawParallelogram.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawPath.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawPath.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawPolygons.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/DrawRect.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FillParallelogram.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FillPath.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FillRect.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FillSpans.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FourByteAbgr.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FourByteAbgr.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FourByteAbgrPre.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/FourByteAbgrPre.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index12Gray.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index12Gray.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index8Gray.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Index8Gray.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgb.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbBm.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntArgbPre.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntBgr.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntBgr.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntDcm.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgb.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgbx.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/IntRgbx.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LineUtils.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/LoopMacros.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/MaskBlit.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/MaskFill.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ParallelogramUtils.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ProcessPath.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ProcessPath.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ScaledBlit.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ThreeByteBgr.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/TransformHelper.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort4444Argb.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort4444Argb.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort555Rgb.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort555Rgb.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort555Rgbx.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort555Rgbx.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort565Rgb.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/Ushort565Rgb.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortGray.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortIndexed.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/UshortIndexed.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/BufferedMaskBlit.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/BufferedRenderPipe.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/PathConsumer2D.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/ShapeSpanIterator.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanClipRenderer.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_image_get.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_image_types.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_status.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/mlib_types.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/safe_alloc.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libmlib_image/safe_math.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_Mlib.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/color.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/img_util_md.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/systemscale/systemScale.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/systemscale/systemScale.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/utility/rect.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/awt/awt_LoadLibrary.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/awt/awt_Mlib.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/awt/initIDs.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h :

@@ -1,0 +1,941 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Array.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Array.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_reflect_Array.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/BootLoader.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/BootLoader.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_loader_BootLoader.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/CDS.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/CDS.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_misc_CDS.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/CgroupMetrics.o: \
+ /home/ph/jdks/jdk/src/java.base/linux/native/libjava/CgroupMetrics.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_platform_CgroupMetrics.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Class.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Class.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/check_classname.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Class.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/ClassLoader.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/ClassLoader.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/check_classname.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ClassLoader.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Console_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/Console_md.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_Console.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/ConstantPool.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/ConstantPool.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_reflect_ConstantPool.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Continuation.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Continuation.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_vm_Continuation.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/ContinuationSupport.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/ContinuationSupport.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_misc_PreviewFeatures.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Double.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Double.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Double.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Executable.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Executable.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_reflect_Executable.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Field.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Field.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_reflect_Field.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/FileDescriptor_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/FileDescriptor_md.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/io_util_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_FileDescriptor.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/FileInputStream.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/FileInputStream.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/io_util.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_FileInputStream.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/io_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/FileOutputStream.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/FileOutputStream.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/io_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/io_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_FileOutputStream.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Finalizer.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Finalizer.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ref_Finalizer.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Float.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Float.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Float.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/ForeignLinkerSupport.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/ForeignLinkerSupport.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_vm_ForeignLinkerSupport.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/JdkConsoleImpl_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/JdkConsoleImpl_md.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_io_JdkConsoleImpl.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/LambdaProxyClassArchive.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/LambdaProxyClassArchive.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_invoke_LambdaProxyClassArchive.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Module.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Module.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Module.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/NativeAccessors.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/NativeAccessors.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_reflect_DirectMethodHandleAccessor_NativeAccessor.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_reflect_DirectConstructorHandleAccessor_NativeAccessor.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/NativeLibraries.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/NativeLibraries.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_loader_NativeLibraries.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/NullPointerException.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/NullPointerException.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_NullPointerException.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Object.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Object.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Object.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/ObjectStreamClass.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/ObjectStreamClass.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_ObjectStreamClass.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/PhantomReference.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/PhantomReference.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ref_PhantomReference.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/PreviewFeatures.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/PreviewFeatures.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_misc_PreviewFeatures.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/ProcessEnvironment_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/ProcessEnvironment_md.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/ProcessHandleImpl_linux.o: \
+ /home/ph/jdks/jdk/src/java.base/linux/native/libjava/ProcessHandleImpl_linux.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ProcessHandleImpl.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ProcessHandleImpl_Info.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/ProcessHandleImpl_unix.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/ProcessHandleImpl_unix.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/ProcessHandleImpl_unix.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ProcessHandleImpl.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ProcessHandleImpl_Info.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/ProcessHandleImpl_unix.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/ProcessImpl_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/ProcessImpl_md.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/io_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/childproc.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/RandomAccessFile.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/RandomAccessFile.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/io_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/io_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_RandomAccessFile.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/RawNativeLibraries.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/RawNativeLibraries.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_loader_RawNativeLibraries.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Reference.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Reference.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ref_Reference.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Reflection.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Reflection.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_reflect_Reflection.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Runtime.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Runtime.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Runtime.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Shutdown.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Shutdown.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Shutdown.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Signal.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Signal.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_misc_Signal.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/StackFrameInfo.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/StackFrameInfo.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_StackFrameInfo.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/StackStreamFactory.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/StackStreamFactory.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_StackStreamFactory.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_StackStreamFactory_AbstractStackWalker.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/StackTraceElement.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/StackTraceElement.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_StackTraceElement.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/String.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/String.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_String.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/System.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/System.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/java_props.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_System.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_util_SystemProps_Raw.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Thread.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Thread.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Thread.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/ThreadSnapshot.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/ThreadSnapshot.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_vm_ThreadSnapshot.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/Throwable.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/Throwable.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Throwable.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/TimeZone.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/TimeZone.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/TimeZone_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_util_TimeZone.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/TimeZone_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/TimeZone_md.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/TimeZone_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/path_util.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/UnixFileSystem_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/UnixFileSystem_md.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jdk_util.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jdk_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/io_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/io_util_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_FileSystem.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_UnixFileSystem.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/VM.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/VM.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jdk_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jdk_util_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_misc_VM.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/VMSupport.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/VMSupport.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_vm_VMSupport.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/VM_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/VM_md.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/VirtualThread.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/VirtualThread.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_VirtualThread.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/canonicalize_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/canonicalize_md.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jdk_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jdk_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/path_util.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/check_classname.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/check_classname.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/check_classname.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/check_version.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/check_version.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/childproc.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/childproc.c \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/childproc.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/io_util.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/io_util.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/io_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/io_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/io_util_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/io_util_md.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/io_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/io_util_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/java_props_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/java_props_md.c \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/locale_str.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/java_props.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/jio.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jio.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/jni_util.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_String.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/jni_util_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjava/path_util.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/path_util.c \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/path_util.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_Console.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_FileDescriptor.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_FileInputStream.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_FileOutputStream.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_FileSystem.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_ObjectStreamClass.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_RandomAccessFile.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_io_UnixFileSystem.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Class.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ClassLoader.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Double.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Float.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Module.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_NullPointerException.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Object.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ProcessHandleImpl.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ProcessHandleImpl_Info.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Runtime.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Shutdown.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_StackFrameInfo.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_StackStreamFactory.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_StackStreamFactory_AbstractStackWalker.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_StackTraceElement.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_String.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_System.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Thread.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_Throwable.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_VirtualThread.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_invoke_LambdaProxyClassArchive.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ref_Finalizer.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ref_PhantomReference.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_ref_Reference.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_reflect_Array.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_reflect_Executable.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_lang_reflect_Field.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/java_util_TimeZone.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_io_JdkConsoleImpl.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_loader_BootLoader.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_loader_NativeLibraries.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_loader_RawNativeLibraries.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_misc_CDS.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_misc_PreviewFeatures.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_misc_Signal.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_misc_VM.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_platform_CgroupMetrics.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_reflect_ConstantPool.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_reflect_DirectConstructorHandleAccessor_NativeAccessor.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_reflect_DirectMethodHandleAccessor_NativeAccessor.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_reflect_Reflection.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_util_SystemProps_Raw.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_vm_Continuation.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_vm_ForeignLinkerSupport.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_vm_ThreadSnapshot.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_vm_VMSupport.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h :
+/home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h :
+/home/ph/jdks/jdk/src/java.base/linux/native/libjava/CgroupMetrics.c :
+/home/ph/jdks/jdk/src/java.base/linux/native/libjava/ProcessHandleImpl_linux.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Array.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/BootLoader.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/CDS.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Class.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/ClassLoader.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/ConstantPool.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Continuation.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/ContinuationSupport.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Double.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Executable.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Field.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/FileInputStream.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/FileOutputStream.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Finalizer.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Float.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/ForeignLinkerSupport.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/LambdaProxyClassArchive.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Module.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/NativeAccessors.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/NativeLibraries.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/NullPointerException.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Object.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/ObjectStreamClass.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/PhantomReference.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/PreviewFeatures.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/RandomAccessFile.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/RawNativeLibraries.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Reference.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Reflection.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Runtime.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Shutdown.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Signal.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/StackFrameInfo.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/StackStreamFactory.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/StackTraceElement.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/String.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/System.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Thread.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/ThreadSnapshot.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/Throwable.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/TimeZone.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/VM.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/VMSupport.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/VirtualThread.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/check_classname.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/check_classname.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/check_version.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/io_util.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/io_util.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/java_props.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jdk_util.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jio.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/Console_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/FileDescriptor_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/JdkConsoleImpl_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/ProcessEnvironment_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/ProcessHandleImpl_unix.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/ProcessHandleImpl_unix.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/ProcessImpl_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/TimeZone_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/TimeZone_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/UnixFileSystem_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/VM_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/canonicalize_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/childproc.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/childproc.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/io_util_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/io_util_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/java_props_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jdk_util_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/locale_str.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/path_util.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/path_util.h :

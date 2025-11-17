@@ -1,0 +1,1 @@
+cd /home/ph/jdks/jdk && /usr/bin/mv /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/images/jmods/jdk.naming.dns.jmod /home/ph/jdks/jdk/build/linux-x86_64-server-release/images/jmods/jdk.naming.dns.jmod

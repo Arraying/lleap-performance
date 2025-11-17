@@ -1,0 +1,98 @@
+
+
+
+    private double getDouble(long a) {
+        try {
+            long x = SCOPED_MEMORY_ACCESS.getLongUnaligned(session(), null, a, bigEndian);
+            return Double.longBitsToDouble(x);
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+    public double getDouble() {
+        try {
+            return getDouble(ix(nextGetIndex((1 << 3))));
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+    public double getDouble(int i) {
+        try {
+            return getDouble(ix(checkIndex(i, (1 << 3))));
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+
+
+
+    private ByteBuffer putDouble(long a, double x) {
+        try {
+            long y = Double.doubleToRawLongBits(x);
+            SCOPED_MEMORY_ACCESS.putLongUnaligned(session(), null, a, y, bigEndian);
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+        return this;
+    }
+
+
+    public ByteBuffer putDouble(double x) {
+
+        putDouble(ix(nextPutIndex((1 << 3))), x);
+        return this;
+
+
+
+    }
+
+    public ByteBuffer putDouble(int i, double x) {
+
+        putDouble(ix(checkIndex(i, (1 << 3))), x);
+        return this;
+
+
+
+    }
+
+    public DoubleBuffer asDoubleBuffer() {
+        int off = this.position();
+        int lim = this.limit();
+        assert (off <= lim);
+        int rem = (off <= lim ? lim - off : 0);
+
+        int size = rem >> 3;
+        if (!UNALIGNED && ((address + off) % (1 << 3) != 0)) {
+            return (bigEndian
+                    ? (DoubleBuffer)(new ByteBufferAsDoubleBufferB(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment))
+                    : (DoubleBuffer)(new ByteBufferAsDoubleBufferL(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment)));
+        } else {
+            return (nativeByteOrder
+                    ? (DoubleBuffer)(new DirectDoubleBufferU(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment))
+                    : (DoubleBuffer)(new DirectDoubleBufferS(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment)));
+        }
+    }
+

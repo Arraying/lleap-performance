@@ -1,0 +1,16 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/zWorkers.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zWorkers.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/gc_globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/gcLogPrecious.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logHandle.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zHeap.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zLock.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zStat.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zTask.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/workerThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zWorkers.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/java.hpp

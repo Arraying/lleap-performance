@@ -1,0 +1,1389 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/ArrayReferenceImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ArrayReferenceImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ArrayReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/ArrayTypeImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ArrayTypeImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ArrayTypeImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/ClassLoaderReferenceImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassLoaderReferenceImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassLoaderReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/ClassObjectReferenceImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassObjectReferenceImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassObjectReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/ClassTypeImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassTypeImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassTypeImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/EventRequestImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/EventRequestImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/EventRequestImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/FieldImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FieldImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FieldImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/FrameID.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/InterfaceTypeImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/InterfaceTypeImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/InterfaceTypeImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/MethodImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/MethodImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/MethodImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/ModuleReferenceImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ModuleReferenceImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ModuleReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/ObjectReferenceImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ObjectReferenceImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ObjectReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/commonRef.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/ReferenceTypeImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ReferenceTypeImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ReferenceTypeImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/SDE.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/SDE.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/SDE.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/StackFrameImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/StackFrameImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/StackFrameImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/StringReferenceImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/StringReferenceImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/StringReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/ThreadGroupReferenceImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ThreadGroupReferenceImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ThreadGroupReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/ThreadReferenceImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ThreadReferenceImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ThreadReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/VirtualMachineImpl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/VirtualMachineImpl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/VirtualMachineImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/commonRef.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHelper.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/SDE.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/bag.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/classTrack.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/classTrack.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/classTrack.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/commonRef.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/commonRef.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/commonRef.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/debugDispatch.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/VirtualMachineImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ReferenceTypeImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassTypeImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/InterfaceTypeImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ArrayTypeImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FieldImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/MethodImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ModuleReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ObjectReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/StringReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ThreadReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ThreadGroupReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassLoaderReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassObjectReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ArrayReferenceImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/EventRequestImpl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/StackFrameImpl.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/debugInit.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/commonRef.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHelper.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/classTrack.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugLoop.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/export/sys.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/debugLoop.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugLoop.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugLoop.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/standardHandlers.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/error_messages.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/utf_util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/proc_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/eventFilter.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilterRestricted.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandlerRestricted.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/SDE.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/eventHandler.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandlerRestricted.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilterRestricted.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/standardHandlers.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHelper.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/classTrack.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/commonRef.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugLoop.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/eventHelper.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHelper.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/exec_md.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/exec_md.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/export/sys.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/inStream.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/utf_util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/commonRef.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/invoker.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/linker_md.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/linker_md.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/path_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/log_messages.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/proc_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/outStream.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/utf_util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/commonRef.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/signature.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/standardHandlers.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/standardHandlers.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHelper.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/classTrack.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/standardHandlers.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/stepControl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHelper.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/SDE.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/stream.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stream.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stream.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/threadControl.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/commonRef.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHelper.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/transport.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.c \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/utf_util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugLoop.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/export/sys.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/utf_util.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/utf_util.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/utf_util.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jdwp.agent/libjdwp/util.o: \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.c \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/utf_util.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h \
+ /home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/jdk.jdwp.agent/JDWPCommands.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h :
+/home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/include/jdwpTransport.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ArrayReferenceImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ArrayReferenceImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ArrayTypeImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ArrayTypeImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassLoaderReferenceImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassLoaderReferenceImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassObjectReferenceImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassObjectReferenceImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassTypeImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ClassTypeImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/EventRequestImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/EventRequestImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FieldImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FieldImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/FrameID.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/InterfaceTypeImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/InterfaceTypeImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/JDWP.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/MethodImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/MethodImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ModuleReferenceImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ModuleReferenceImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ObjectReferenceImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ObjectReferenceImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ReferenceTypeImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ReferenceTypeImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/SDE.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/SDE.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/StackFrameImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/StackFrameImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/StringReferenceImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/StringReferenceImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ThreadGroupReferenceImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ThreadGroupReferenceImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ThreadReferenceImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/ThreadReferenceImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/VirtualMachineImpl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/VirtualMachineImpl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/bag.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/classTrack.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/classTrack.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/commonRef.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/commonRef.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugDispatch.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugInit.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugLoop.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/debugLoop.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/error_messages.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilter.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventFilterRestricted.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandler.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHandlerRestricted.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHelper.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/eventHelper.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/export/sys.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/inStream.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/invoker.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/log_messages.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/outStream.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/signature.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/standardHandlers.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/standardHandlers.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stepControl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stream.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/stream.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/threadControl.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/transport.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/utf_util.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/utf_util.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/util.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/share/native/libjdwp/vm_interface.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/exec_md.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/linker_md.c :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/path_md.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/proc_md.h :
+/home/ph/jdks/jdk/src/jdk.jdwp.agent/unix/native/libjdwp/util_md.h :

@@ -1,0 +1,14 @@
+/home/ph/jdks/jdk/src/hotspot/share/gc/shared/gcInitLogger.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/gc/shared/gc_globals.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/gc/shared/gcInitLogger.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/gc/shared/gcLogPrecious.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logHandle.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/oops/compressedOops.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/globals.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/vm_version.hpp :

@@ -1,0 +1,1 @@
+BUILD_LAUNCHER_jshell_VARDEPS_old := /usr/bin/gcc -Wl,-z,defs -Wl,-z,relro -Wl,-z,now -Wl,--no-as-needed -Wl,--exclude-libs,ALL -Wl,-z,noexecstack -Wl,-O1 -m64 -pie -L/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_libs/java.base -Wl,-rpath,\$$ORIGIN -Wl,--disable-new-dtags -Wl,-rpath,\$$ORIGIN/../lib -Wl,--disable-new-dtags -ljli --strip-debug

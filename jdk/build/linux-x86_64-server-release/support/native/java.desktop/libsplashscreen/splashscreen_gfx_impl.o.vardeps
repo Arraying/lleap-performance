@@ -1,0 +1,1 @@
+BUILD_LIBSPLASHSCREEN_splashscreen_gfx_impl.c_VARDEPS_old := -Wno-implicit-fallthrough -Wno-maybe-uninitialized

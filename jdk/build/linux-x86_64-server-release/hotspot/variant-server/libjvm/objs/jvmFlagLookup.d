@@ -1,0 +1,9 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/jvmFlagLookup.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/flags/jvmFlagLookup.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/flags/jvmFlag.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/flags/jvmFlagLookup.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/globals_extension.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/defaultStream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/xmlstream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp

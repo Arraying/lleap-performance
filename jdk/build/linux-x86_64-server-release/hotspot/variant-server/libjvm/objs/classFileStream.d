@@ -1,0 +1,8 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/classFileStream.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/classFileStream.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/classFileStream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/bytes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/exceptions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/vmSymbols.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp

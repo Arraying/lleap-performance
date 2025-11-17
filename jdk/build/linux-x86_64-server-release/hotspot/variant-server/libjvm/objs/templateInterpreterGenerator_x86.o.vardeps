@@ -1,0 +1,1 @@
+BUILD_LIBJVM_templateInterpreterGenerator_x86.cpp_VARDEPS_old := -Wno-unused-const-variable

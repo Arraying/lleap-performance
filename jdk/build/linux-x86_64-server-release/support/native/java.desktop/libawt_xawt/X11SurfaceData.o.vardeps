@@ -1,0 +1,1 @@
+BUILD_LIBAWT_XAWT_X11SurfaceData.c_VARDEPS_old := -Wno-implicit-fallthrough -Wno-pointer-to-int-cast -Wno-unused-but-set-variable

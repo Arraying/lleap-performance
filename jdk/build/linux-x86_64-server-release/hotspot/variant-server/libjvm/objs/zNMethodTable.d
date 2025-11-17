@@ -1,0 +1,35 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/zNMethodTable.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zNMethodTable.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/nmethod.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/relocInfo.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/barrierSet.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/barrierSetNMethod.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopsHierarchy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/formatBuffer.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/sizes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zHash.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zLock.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zNMethodData.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zArray.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zLock.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zNMethodTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zNMethodTableIteration.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zGlobals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zSafeDelete.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zNMethodTableEntry.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zBitField.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zSafeDelete.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cppstdlib/type_traits.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zArray.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zTask.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/workerThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zWorkers.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/iterator.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/powerOfTwo.hpp

@@ -1,0 +1,11 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/workerUtils.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/workerUtils.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/workerUtils.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cppstdlib/type_traits.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/metaprogramming/enableIf.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutex.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp

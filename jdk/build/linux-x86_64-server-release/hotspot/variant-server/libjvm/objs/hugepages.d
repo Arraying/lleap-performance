@@ -1,0 +1,11 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/hugepages.o: \
+ /home/ph/jdks/jdk/src/hotspot/os/linux/hugepages.cpp \
+ /home/ph/jdks/jdk/src/hotspot/os/linux/hugepages.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logStream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/globals_extension.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp

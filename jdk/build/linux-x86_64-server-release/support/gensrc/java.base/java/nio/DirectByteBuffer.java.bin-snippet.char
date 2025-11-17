@@ -1,0 +1,98 @@
+
+
+
+    private char getChar(long a) {
+        try {
+            char x = SCOPED_MEMORY_ACCESS.getCharUnaligned(session(), null, a, bigEndian);
+            return (x);
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+    public char getChar() {
+        try {
+            return getChar(ix(nextGetIndex((1 << 1))));
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+    public char getChar(int i) {
+        try {
+            return getChar(ix(checkIndex(i, (1 << 1))));
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+
+
+
+    private ByteBuffer putChar(long a, char x) {
+        try {
+            char y = (x);
+            SCOPED_MEMORY_ACCESS.putCharUnaligned(session(), null, a, y, bigEndian);
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+        return this;
+    }
+
+
+    public ByteBuffer putChar(char x) {
+
+        putChar(ix(nextPutIndex((1 << 1))), x);
+        return this;
+
+
+
+    }
+
+    public ByteBuffer putChar(int i, char x) {
+
+        putChar(ix(checkIndex(i, (1 << 1))), x);
+        return this;
+
+
+
+    }
+
+    public CharBuffer asCharBuffer() {
+        int off = this.position();
+        int lim = this.limit();
+        assert (off <= lim);
+        int rem = (off <= lim ? lim - off : 0);
+
+        int size = rem >> 1;
+        if (!UNALIGNED && ((address + off) % (1 << 1) != 0)) {
+            return (bigEndian
+                    ? (CharBuffer)(new ByteBufferAsCharBufferB(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment))
+                    : (CharBuffer)(new ByteBufferAsCharBufferL(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment)));
+        } else {
+            return (nativeByteOrder
+                    ? (CharBuffer)(new DirectCharBufferU(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment))
+                    : (CharBuffer)(new DirectCharBufferS(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment)));
+        }
+    }
+

@@ -1,0 +1,24 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/methodMatcher.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/methodMatcher.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/symbolTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/padded.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/symbol.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/symbolHandle.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/tableStatistics.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/vmSymbols.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/compilerOracle.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopsHierarchy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/istream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/methodMatcher.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/oopFactory.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/referenceType.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/exceptions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/method.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.inline.hpp

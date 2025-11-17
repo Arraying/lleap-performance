@@ -1,0 +1,1 @@
+-DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=jhsdb -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.hotspot.agent/sun.jvm.hotspot.SALauncher

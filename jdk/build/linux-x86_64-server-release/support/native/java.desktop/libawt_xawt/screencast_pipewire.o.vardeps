@@ -1,0 +1,1 @@
+BUILD_LIBAWT_XAWT_screencast_pipewire.c_VARDEPS_old := -Wno-undef

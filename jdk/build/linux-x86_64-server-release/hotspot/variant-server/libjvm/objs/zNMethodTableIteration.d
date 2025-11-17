@@ -1,0 +1,11 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/zNMethodTableIteration.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zNMethodTableIteration.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zNMethodTableEntry.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zBitField.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zNMethodTableIteration.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zGlobals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/iterator.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp

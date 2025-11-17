@@ -1,0 +1,29 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/classLoadingService.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/services/classLoadingService.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logConfiguration.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logFileStreamOutput.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logDecorators.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logOutput.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logLevel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logMessageBuffer.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/instanceKlass.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/method.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/services/classLoadingService.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/perfData.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/growableArray.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/services/memoryService.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/defaultStream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/xmlstream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/dtrace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/dtrace_disabled.hpp

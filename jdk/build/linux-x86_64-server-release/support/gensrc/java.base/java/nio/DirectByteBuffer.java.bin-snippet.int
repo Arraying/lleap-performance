@@ -1,0 +1,98 @@
+
+
+
+    private int getInt(long a) {
+        try {
+            int x = SCOPED_MEMORY_ACCESS.getIntUnaligned(session(), null, a, bigEndian);
+            return (x);
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+    public int getInt() {
+        try {
+            return getInt(ix(nextGetIndex((1 << 2))));
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+    public int getInt(int i) {
+        try {
+            return getInt(ix(checkIndex(i, (1 << 2))));
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+
+
+
+    private ByteBuffer putInt(long a, int x) {
+        try {
+            int y = (x);
+            SCOPED_MEMORY_ACCESS.putIntUnaligned(session(), null, a, y, bigEndian);
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+        return this;
+    }
+
+
+    public ByteBuffer putInt(int x) {
+
+        putInt(ix(nextPutIndex((1 << 2))), x);
+        return this;
+
+
+
+    }
+
+    public ByteBuffer putInt(int i, int x) {
+
+        putInt(ix(checkIndex(i, (1 << 2))), x);
+        return this;
+
+
+
+    }
+
+    public IntBuffer asIntBuffer() {
+        int off = this.position();
+        int lim = this.limit();
+        assert (off <= lim);
+        int rem = (off <= lim ? lim - off : 0);
+
+        int size = rem >> 2;
+        if (!UNALIGNED && ((address + off) % (1 << 2) != 0)) {
+            return (bigEndian
+                    ? (IntBuffer)(new ByteBufferAsIntBufferB(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment))
+                    : (IntBuffer)(new ByteBufferAsIntBufferL(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment)));
+        } else {
+            return (nativeByteOrder
+                    ? (IntBuffer)(new DirectIntBufferU(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment))
+                    : (IntBuffer)(new DirectIntBufferS(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment)));
+        }
+    }
+

@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    public ByteBuffer putDouble(double x) {
+
+
+
+
+        throw new ReadOnlyBufferException();
+
+    }
+
+    public ByteBuffer putDouble(int i, double x) {
+
+
+
+
+        throw new ReadOnlyBufferException();
+
+    }
+
+    public DoubleBuffer asDoubleBuffer() {
+        int off = this.position();
+        int lim = this.limit();
+        assert (off <= lim);
+        int rem = (off <= lim ? lim - off : 0);
+
+        int size = rem >> 3;
+        if (!UNALIGNED && ((address + off) % (1 << 3) != 0)) {
+            return (bigEndian
+                    ? (DoubleBuffer)(new ByteBufferAsDoubleBufferRB(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment))
+                    : (DoubleBuffer)(new ByteBufferAsDoubleBufferRL(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment)));
+        } else {
+            return (nativeByteOrder
+                    ? (DoubleBuffer)(new DirectDoubleBufferRU(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment))
+                    : (DoubleBuffer)(new DirectDoubleBufferRS(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment)));
+        }
+    }
+

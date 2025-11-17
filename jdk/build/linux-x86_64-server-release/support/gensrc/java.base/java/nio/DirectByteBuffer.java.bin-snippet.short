@@ -1,0 +1,98 @@
+
+
+
+    private short getShort(long a) {
+        try {
+            short x = SCOPED_MEMORY_ACCESS.getShortUnaligned(session(), null, a, bigEndian);
+            return (x);
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+    public short getShort() {
+        try {
+            return getShort(ix(nextGetIndex((1 << 1))));
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+    public short getShort(int i) {
+        try {
+            return getShort(ix(checkIndex(i, (1 << 1))));
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+    }
+
+
+
+
+    private ByteBuffer putShort(long a, short x) {
+        try {
+            short y = (x);
+            SCOPED_MEMORY_ACCESS.putShortUnaligned(session(), null, a, y, bigEndian);
+        } finally {
+            Reference.reachabilityFence(this);
+        }
+        return this;
+    }
+
+
+    public ByteBuffer putShort(short x) {
+
+        putShort(ix(nextPutIndex((1 << 1))), x);
+        return this;
+
+
+
+    }
+
+    public ByteBuffer putShort(int i, short x) {
+
+        putShort(ix(checkIndex(i, (1 << 1))), x);
+        return this;
+
+
+
+    }
+
+    public ShortBuffer asShortBuffer() {
+        int off = this.position();
+        int lim = this.limit();
+        assert (off <= lim);
+        int rem = (off <= lim ? lim - off : 0);
+
+        int size = rem >> 1;
+        if (!UNALIGNED && ((address + off) % (1 << 1) != 0)) {
+            return (bigEndian
+                    ? (ShortBuffer)(new ByteBufferAsShortBufferB(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment))
+                    : (ShortBuffer)(new ByteBufferAsShortBufferL(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment)));
+        } else {
+            return (nativeByteOrder
+                    ? (ShortBuffer)(new DirectShortBufferU(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment))
+                    : (ShortBuffer)(new DirectShortBufferS(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment)));
+        }
+    }
+

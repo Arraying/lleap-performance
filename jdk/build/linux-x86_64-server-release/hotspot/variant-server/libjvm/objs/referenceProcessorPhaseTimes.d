@@ -1,0 +1,21 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/referenceProcessorPhaseTimes.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/referenceProcessorPhaseTimes.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/gcTimer.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/referenceProcessor.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/referenceProcessor.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/compressedOops.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/referenceProcessorPhaseTimes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/referenceProcessorStats.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/workerDataArray.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/referenceType.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ticks.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/workerDataArray.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logStream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp

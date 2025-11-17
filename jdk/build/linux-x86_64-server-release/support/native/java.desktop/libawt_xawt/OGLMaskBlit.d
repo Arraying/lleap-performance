@@ -1,0 +1,32 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_xawt/OGLMaskBlit.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLMaskBlit.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLMaskBlit.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext_OGLContextCaps.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/khrplatform.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_AffineTransformOp.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_hw_AccelSurface.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncs.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/OGLFuncs_md.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glx.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glxext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLRenderQueue.h

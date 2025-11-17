@@ -1,0 +1,25 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/zArguments.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zArguments.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/gcArguments.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zAddressSpaceLimit.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zArguments.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zCollectedHeap.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/collectedHeap.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zBarrierSet.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zHeap.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zInitialize.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cppstdlib/cstddef.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/compilerWarnings.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zRuntimeWorkers.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/workerThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/services/memoryUsage.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zGlobals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zHeuristics.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zUtils.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/globals_extension.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/java.hpp

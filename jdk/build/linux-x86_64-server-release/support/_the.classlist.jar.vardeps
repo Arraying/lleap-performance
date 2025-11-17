@@ -1,0 +1,1 @@
+ARCHIVE_CLASSLIST_JAR_VARDEPS_old := /home/ph/jdks/support/jdk-25.0.1/bin/jar --date 2025-11-17T14:14:03Z /home/ph/jdks/jdk/build/linux-x86_64-server-release/buildtools/classlist_classes/_the.CLASSLIST_JAR_batch /home/ph/jdks/jdk/build/linux-x86_64-server-release/buildtools/classlist_classes build/tools/classlist

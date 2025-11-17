@@ -1,0 +1,12 @@
+/home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/chunkHeaderPool.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/chunkHeaderPool.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/counters.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/cppstdlib/type_traits.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/metachunk.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/chunklevel.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/metachunkList.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp :

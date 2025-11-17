@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    public ByteBuffer putInt(int x) {
+
+
+
+
+        throw new ReadOnlyBufferException();
+
+    }
+
+    public ByteBuffer putInt(int i, int x) {
+
+
+
+
+        throw new ReadOnlyBufferException();
+
+    }
+
+    public IntBuffer asIntBuffer() {
+        int off = this.position();
+        int lim = this.limit();
+        assert (off <= lim);
+        int rem = (off <= lim ? lim - off : 0);
+
+        int size = rem >> 2;
+        if (!UNALIGNED && ((address + off) % (1 << 2) != 0)) {
+            return (bigEndian
+                    ? (IntBuffer)(new ByteBufferAsIntBufferRB(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment))
+                    : (IntBuffer)(new ByteBufferAsIntBufferRL(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment)));
+        } else {
+            return (nativeByteOrder
+                    ? (IntBuffer)(new DirectIntBufferRU(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment))
+                    : (IntBuffer)(new DirectIntBufferRS(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment)));
+        }
+    }
+

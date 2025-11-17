@@ -1,0 +1,12 @@
+/home/ph/jdks/jdk/src/hotspot/share/gc/g1/g1FromCardCache.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/gc/g1/g1FromCardCache.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/gc/shared/gc_globals.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/padded.inline.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/padded.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/allocation.inline.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/globals.hpp :

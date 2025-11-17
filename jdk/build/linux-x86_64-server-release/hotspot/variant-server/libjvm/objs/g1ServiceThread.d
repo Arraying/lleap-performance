@@ -1,0 +1,13 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/g1ServiceThread.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/g1/g1ServiceThread.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/g1/g1ServiceThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/concurrentGCThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutex.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/cpuTimeCounters.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/iterator.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/perfData.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/perfDataTypes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/timer.hpp

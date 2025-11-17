@@ -1,0 +1,1 @@
+BUILD_LIBJVM_interp_masm_x86.cpp_VARDEPS_old := -Wno-uninitialized

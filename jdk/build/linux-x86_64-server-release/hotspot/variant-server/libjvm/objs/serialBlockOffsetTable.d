@@ -1,0 +1,30 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/serialBlockOffsetTable.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/serial/serialBlockOffsetTable.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/serial/serialBlockOffsetTable.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/serial/serialBlockOffsetTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/blockOffsetTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/cardTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/gc_globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/memset_with_concurrent_readers.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/memRegion.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/virtualspace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/collectedHeap.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/collectedHeap.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/memAllocator.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopsHierarchy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/javaThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/exceptions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/iterator.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/memoryReserver.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/reservedSpace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/nmt/memTag.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/universe.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/java.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp

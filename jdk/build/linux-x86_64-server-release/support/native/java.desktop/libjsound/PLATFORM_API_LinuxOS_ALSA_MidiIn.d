@@ -1,0 +1,14 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libjsound/PLATFORM_API_LinuxOS_ALSA_MidiIn.o: \
+ /home/ph/jdks/jdk/src/java.desktop/linux/native/libjsound/PLATFORM_API_LinuxOS_ALSA_MidiIn.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libjsound/PlatformMidi.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libjsound/SoundDefs.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libjsound/Configure.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libjsound/Utilities.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/linux/native/libjsound/PLATFORM_API_LinuxOS_ALSA_MidiUtils.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libjsound/Utilities.h

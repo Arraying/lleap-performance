@@ -1,0 +1,1 @@
+BUILD_LIBJVM_vmStructs.cpp_VARDEPS_old := -fno-var-tracking-assignments

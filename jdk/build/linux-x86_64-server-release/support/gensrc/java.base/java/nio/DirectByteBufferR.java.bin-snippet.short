@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    public ByteBuffer putShort(short x) {
+
+
+
+
+        throw new ReadOnlyBufferException();
+
+    }
+
+    public ByteBuffer putShort(int i, short x) {
+
+
+
+
+        throw new ReadOnlyBufferException();
+
+    }
+
+    public ShortBuffer asShortBuffer() {
+        int off = this.position();
+        int lim = this.limit();
+        assert (off <= lim);
+        int rem = (off <= lim ? lim - off : 0);
+
+        int size = rem >> 1;
+        if (!UNALIGNED && ((address + off) % (1 << 1) != 0)) {
+            return (bigEndian
+                    ? (ShortBuffer)(new ByteBufferAsShortBufferRB(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment))
+                    : (ShortBuffer)(new ByteBufferAsShortBufferRL(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment)));
+        } else {
+            return (nativeByteOrder
+                    ? (ShortBuffer)(new DirectShortBufferRU(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment))
+                    : (ShortBuffer)(new DirectShortBufferRS(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment)));
+        }
+    }
+

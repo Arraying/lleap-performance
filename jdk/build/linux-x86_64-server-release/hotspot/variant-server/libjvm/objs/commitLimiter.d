@@ -1,0 +1,13 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/commitLimiter.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/commitLimiter.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/commitLimiter.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/counters.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cppstdlib/type_traits.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspaceUtils.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspaceChunkFreeListSummary.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspaceStats.hpp

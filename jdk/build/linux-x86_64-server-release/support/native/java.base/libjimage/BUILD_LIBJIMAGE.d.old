@@ -1,0 +1,82 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjimage/NativeImageBuffer.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/NativeImageBuffer.cpp \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/endian.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/inttypes.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageDecompressor.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageFile.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/jimage.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/osSupport.hpp \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_jimage_NativeImageBuffer.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjimage/endian.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/endian.cpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/endian.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/inttypes.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjimage/imageDecompressor.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageDecompressor.cpp \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageDecompressor.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageFile.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/endian.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/inttypes.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjimage/imageFile.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageFile.cpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/endian.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/inttypes.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageDecompressor.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageFile.hpp \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/osSupport.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjimage/jimage.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/jimage.cpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/jimage.hpp \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageFile.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/endian.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/inttypes.hpp \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjimage/osSupport_unix.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjimage/osSupport_unix.cpp \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjimage/osSupport.hpp
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.base/jdk_internal_jimage_NativeImageBuffer.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h :
+/home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjimage/NativeImageBuffer.cpp :
+/home/ph/jdks/jdk/src/java.base/share/native/libjimage/endian.cpp :
+/home/ph/jdks/jdk/src/java.base/share/native/libjimage/endian.hpp :
+/home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageDecompressor.cpp :
+/home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageDecompressor.hpp :
+/home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageFile.cpp :
+/home/ph/jdks/jdk/src/java.base/share/native/libjimage/imageFile.hpp :
+/home/ph/jdks/jdk/src/java.base/share/native/libjimage/inttypes.hpp :
+/home/ph/jdks/jdk/src/java.base/share/native/libjimage/jimage.cpp :
+/home/ph/jdks/jdk/src/java.base/share/native/libjimage/jimage.hpp :
+/home/ph/jdks/jdk/src/java.base/share/native/libjimage/osSupport.hpp :
+/home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjimage/osSupport_unix.cpp :

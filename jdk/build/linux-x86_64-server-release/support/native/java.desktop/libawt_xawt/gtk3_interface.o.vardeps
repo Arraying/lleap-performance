@@ -1,0 +1,1 @@
+BUILD_LIBAWT_XAWT_gtk3_interface.c_VARDEPS_old := -Wno-parentheses -Wno-type-limits -Wno-unused-function

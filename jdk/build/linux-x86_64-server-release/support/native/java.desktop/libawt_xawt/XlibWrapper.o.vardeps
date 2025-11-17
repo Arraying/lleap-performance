@@ -1,0 +1,1 @@
+BUILD_LIBAWT_XAWT_XlibWrapper.c_VARDEPS_old := -Wno-type-limits -Wno-pointer-to-int-cast

@@ -1,0 +1,7 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/jniFastGetField.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/prims/jniFastGetField.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/prims/jniFastGetField.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/prims/jvm_misc.hpp \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.hpp

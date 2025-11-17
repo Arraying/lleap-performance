@@ -1,0 +1,15 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/tools/adlc/objs/output_h.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/output_h.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlc.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/opcodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/classes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlArena.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/adlparse.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/filebuff.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/forms.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/dict2.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/adlcVMDeps.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formsopt.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/formssel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/adlc/archDesc.hpp

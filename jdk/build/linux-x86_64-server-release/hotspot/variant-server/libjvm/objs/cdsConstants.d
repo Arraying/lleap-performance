@@ -1,0 +1,31 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/cdsConstants.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/cdsConstants.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/cdsConstants.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/dynamicArchive.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/filemap.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/aotMetaspace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/memRegion.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/reservedSpace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/virtualspace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/archiveUtils.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/cds_globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/serializeClosure.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopsHierarchy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/nonJavaThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/semaphore.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/bitMap.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/exceptions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/include/cds.h \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logLevel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/array.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/compressedOops.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/compactHashtable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/growableArray.hpp

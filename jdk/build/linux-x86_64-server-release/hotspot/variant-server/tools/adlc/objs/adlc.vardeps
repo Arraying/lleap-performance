@@ -1,0 +1,1 @@
+BUILD_ADLC_VARDEPS_old := /usr/bin/g++ -static-libstdc++ -static-libgcc -Wl,-rpath,\$$ORIGIN -Wl,--disable-new-dtags -static-libstdc++ -static-libgcc --strip-debug

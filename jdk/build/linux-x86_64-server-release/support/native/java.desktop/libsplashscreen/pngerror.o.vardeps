@@ -1,0 +1,1 @@
+BUILD_LIBSPLASHSCREEN_pngerror.c_VARDEPS_old := -Wno-maybe-uninitialized

@@ -1,0 +1,36 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/zRelocationSet.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zRelocationSet.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zArray.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zCollectedHeap.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/collectedHeap.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zBarrierSet.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zHeap.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zInitialize.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cppstdlib/cstddef.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/compilerWarnings.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zRuntimeWorkers.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/workerThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/services/memoryUsage.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zForwarding.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zForwardingAllocator.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zGeneration.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zPage.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zPageAllocator.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zRelocationSet.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zRelocationSet.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zRelocationSetSelector.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zRelocationSetSelector.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zGlobals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zPageAge.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zPageAge.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cppstdlib/type_traits.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/checkedCast.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/powerOfTwo.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zStat.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zTask.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/z/zWorkers.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp

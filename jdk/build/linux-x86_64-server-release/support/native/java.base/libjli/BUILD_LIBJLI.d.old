@@ -1,0 +1,133 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjli/args.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/args.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/java.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/emessages.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjli/java_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/wildcard.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/splashscreen.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjli/java.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/java.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/java.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/emessages.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjli/java_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/wildcard.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/splashscreen.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjli/java_md.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjli/java_md.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/java.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/emessages.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjli/java_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/wildcard.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/splashscreen.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjli/java_md_common.o: \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjli/java_md_common.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/java.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/emessages.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjli/java_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/wildcard.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/splashscreen.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjli/jli_util.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjli/link_type.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/link_type.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjli/parse_manifest.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/parse_manifest.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjli/splashscreen_stubs.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/splashscreen_stubs.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/splashscreen.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.base/libjli/wildcard.o: \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/wildcard.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/java.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/emessages.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjli/java_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/wildcard.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/splashscreen.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h :
+/home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/args.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/emessages.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/java.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/java.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/jli_util.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/link_type.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/parse_manifest.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/splashscreen.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/splashscreen_stubs.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/wildcard.c :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/wildcard.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjli/java_md.c :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjli/java_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjli/java_md_common.c :

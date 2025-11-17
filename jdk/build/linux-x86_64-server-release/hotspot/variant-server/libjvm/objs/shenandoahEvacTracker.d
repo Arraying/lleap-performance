@@ -1,0 +1,19 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/shenandoahEvacTracker.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shenandoah/shenandoahEvacTracker.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shenandoah/shenandoahEvacTracker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shenandoah/shenandoahHeap.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shenandoah/shenandoahThreadLocalData.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/thread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/threadSMR.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/threadSMR.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/javaThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/timer.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/gc_globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/tlab_globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/iterator.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/prefetch.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp

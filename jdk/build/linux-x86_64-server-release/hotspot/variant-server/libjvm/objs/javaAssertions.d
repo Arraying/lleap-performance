@@ -1,0 +1,30 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/javaAssertions.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/javaAssertions.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/javaAssertions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/objArrayOop.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/typeArrayOop.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/exceptions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/javaClasses.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/symbolTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/padded.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/symbol.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/symbolHandle.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/tableStatistics.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/systemDictionary.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopHandle.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/signature.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/method.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/vmEnums.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/vmClasses.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/vmSymbols.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/oopFactory.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/referenceType.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopsHierarchy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/objArrayOop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/typeArrayOop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.inline.hpp

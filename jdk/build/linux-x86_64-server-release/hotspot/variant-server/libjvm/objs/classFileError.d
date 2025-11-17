@@ -1,0 +1,28 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/classFileError.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/classFileError.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/classFileParser.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/referenceType.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/annotations.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/constantPool.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/fieldInfo.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/instanceKlass.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/typeArrayOop.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/accessFlags.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/stackMapTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/stackMapFrame.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/verificationType.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/symbol.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/signature.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/method.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/verifier.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/klass.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/exceptions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/growableArray.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/hashTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/bytes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/vmSymbols.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp

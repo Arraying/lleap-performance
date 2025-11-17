@@ -1,0 +1,34 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/ostream.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/classListWriter.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/javaThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/compileLog.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/xmlstream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/arguments.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logLevel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logTag.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/java.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/vmEnums.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/orderAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/os.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/safepoint.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/vm_version.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/defaultStream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/vmError.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp

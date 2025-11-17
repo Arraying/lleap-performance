@@ -1,0 +1,1 @@
+BUILD_LIBAWT_XAWT_awt_Taskbar.c_VARDEPS_old := -Wno-parentheses

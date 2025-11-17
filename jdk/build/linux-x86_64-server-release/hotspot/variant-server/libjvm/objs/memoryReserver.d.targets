@@ -1,0 +1,14 @@
+/home/ph/jdks/jdk/src/hotspot/share/memory/memoryReserver.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/memoryReserver.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/reservedSpace.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/nmt/memTag.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/oops/compressedOops.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/oops/markWord.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/globals_extension.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/java.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/os.inline.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/formatBuffer.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/powerOfTwo.hpp :

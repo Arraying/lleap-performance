@@ -1,0 +1,162 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/EncodingSupport.o: \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/EncodingSupport.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/EncodingSupport_md.o: \
+ /home/ph/jdks/jdk/src/java.instrument/unix/native/libinstrument/EncodingSupport_md.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/FileSystemSupport_md.o: \
+ /home/ph/jdks/jdk/src/java.instrument/unix/native/libinstrument/FileSystemSupport_md.c \
+ /home/ph/jdks/jdk/src/java.instrument/unix/native/libinstrument/FileSystemSupport_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/InstrumentationImplNativeMethods.o: \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/InstrumentationImplNativeMethods.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAgent.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAssert.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Utilities.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JavaExceptions.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/FileSystemSupport.h \
+ /home/ph/jdks/jdk/src/java.instrument/unix/native/libinstrument/FileSystemSupport_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.instrument/sun_instrument_InstrumentationImpl.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/InvocationAdapter.o: \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/InvocationAdapter.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jdk_util.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jdk_util_md.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Utilities.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAssert.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAgent.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JavaExceptions.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/EncodingSupport.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/FileSystemSupport.h \
+ /home/ph/jdks/jdk/src/java.instrument/unix/native/libinstrument/FileSystemSupport_md.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JarFacade.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/PathCharsValidator.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/JPLISAgent.o: \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAgent.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAgent.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAssert.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Utilities.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Reentrancy.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JavaExceptions.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/EncodingSupport.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/FileSystemSupport.h \
+ /home/ph/jdks/jdk/src/java.instrument/unix/native/libinstrument/FileSystemSupport_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.instrument/sun_instrument_InstrumentationImpl.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/JPLISAssert.o: \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAssert.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAssert.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/JarFacade.o: \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JarFacade.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JarFacade.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/JavaExceptions.o: \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JavaExceptions.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAssert.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Utilities.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JavaExceptions.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/PathCharsValidator.o: \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/PathCharsValidator.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/Reentrancy.o: \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Reentrancy.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAssert.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Reentrancy.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAgent.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.instrument/libinstrument/Utilities.o: \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Utilities.c \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAssert.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Utilities.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JavaExceptions.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.instrument/sun_instrument_InstrumentationImpl.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jvmti.h :
+/home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jdk_util.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjli/manifest_info.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jdk_util_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/EncodingSupport.c :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/EncodingSupport.h :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/FileSystemSupport.h :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/InstrumentationImplNativeMethods.c :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/InvocationAdapter.c :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAgent.c :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAgent.h :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAssert.c :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JPLISAssert.h :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JarFacade.c :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JarFacade.h :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JavaExceptions.c :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/JavaExceptions.h :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/PathCharsValidator.c :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/PathCharsValidator.h :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Reentrancy.c :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Reentrancy.h :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Utilities.c :
+/home/ph/jdks/jdk/src/java.instrument/share/native/libinstrument/Utilities.h :
+/home/ph/jdks/jdk/src/java.instrument/unix/native/libinstrument/EncodingSupport_md.c :
+/home/ph/jdks/jdk/src/java.instrument/unix/native/libinstrument/FileSystemSupport_md.c :
+/home/ph/jdks/jdk/src/java.instrument/unix/native/libinstrument/FileSystemSupport_md.h :

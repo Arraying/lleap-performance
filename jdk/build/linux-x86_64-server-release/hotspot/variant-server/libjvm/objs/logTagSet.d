@@ -1,0 +1,31 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/logTagSet.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logTagSet.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logAsyncWriter.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logDecorations.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logMessageBuffer.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutex.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/nonJavaThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/os.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/semaphore.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/hashTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logFileStreamOutput.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logDecorators.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logOutput.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logLevel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logTag.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logTagSet.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logTagSetDescriptions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/permitForbiddenFunctions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/compilerWarnings.hpp \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/permitForbiddenFunctions_posix.hpp

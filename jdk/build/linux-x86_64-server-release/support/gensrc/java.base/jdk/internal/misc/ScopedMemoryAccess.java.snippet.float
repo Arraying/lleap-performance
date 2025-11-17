@@ -1,0 +1,461 @@
+    @ForceInline
+    public float getFloat(MemorySessionImpl session, Object base, long offset) {
+        try {
+            return getFloatInternal(session, base, offset);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float getFloatInternal(MemorySessionImpl session, Object base, long offset) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getFloat(base, offset);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public void putFloat(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            putFloatInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private void putFloatInternal(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            UNSAFE.putFloat(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+
+    @ForceInline
+    public float getFloatVolatile(MemorySessionImpl session, Object base, long offset) {
+        try {
+            return getFloatVolatileInternal(session, base, offset);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float getFloatVolatileInternal(MemorySessionImpl session, Object base, long offset) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getFloatVolatile(base, offset);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public void putFloatVolatile(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            putFloatVolatileInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private void putFloatVolatileInternal(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            UNSAFE.putFloatVolatile(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public float getFloatAcquire(MemorySessionImpl session, Object base, long offset) {
+        try {
+            return getFloatAcquireInternal(session, base, offset);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float getFloatAcquireInternal(MemorySessionImpl session, Object base, long offset) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getFloatAcquire(base, offset);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public void putFloatRelease(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            putFloatReleaseInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private void putFloatReleaseInternal(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            UNSAFE.putFloatRelease(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public float getFloatOpaque(MemorySessionImpl session, Object base, long offset) {
+        try {
+            return getFloatOpaqueInternal(session, base, offset);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float getFloatOpaqueInternal(MemorySessionImpl session, Object base, long offset) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getFloatOpaque(base, offset);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+    @ForceInline
+    public void putFloatOpaque(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            putFloatOpaqueInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private void putFloatOpaqueInternal(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            UNSAFE.putFloatOpaque(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+    @ForceInline
+    public boolean compareAndSetFloat(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            return compareAndSetFloatInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean compareAndSetFloatInternal(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.compareAndSetFloat(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public float compareAndExchangeFloat(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            return compareAndExchangeFloatInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float compareAndExchangeFloatInternal(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.compareAndExchangeFloat(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public float compareAndExchangeFloatAcquire(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            return compareAndExchangeFloatAcquireInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float compareAndExchangeFloatAcquireInternal(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.compareAndExchangeFloatAcquire(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public float compareAndExchangeFloatRelease(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            return compareAndExchangeFloatReleaseInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float compareAndExchangeFloatReleaseInternal(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.compareAndExchangeFloatRelease(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean weakCompareAndSetFloatPlain(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            return weakCompareAndSetFloatPlainInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean weakCompareAndSetFloatPlainInternal(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.weakCompareAndSetFloatPlain(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean weakCompareAndSetFloat(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            return weakCompareAndSetFloatInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean weakCompareAndSetFloatInternal(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.weakCompareAndSetFloat(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean weakCompareAndSetFloatAcquire(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            return weakCompareAndSetFloatAcquireInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean weakCompareAndSetFloatAcquireInternal(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.weakCompareAndSetFloatAcquire(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean weakCompareAndSetFloatRelease(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            return weakCompareAndSetFloatReleaseInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean weakCompareAndSetFloatReleaseInternal(MemorySessionImpl session, Object base, long offset, float expected, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.weakCompareAndSetFloatRelease(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public float getAndSetFloat(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            return getAndSetFloatInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float getAndSetFloatInternal(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndSetFloat(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public float getAndSetFloatAcquire(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            return getAndSetFloatAcquireInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float getAndSetFloatAcquireInternal(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndSetFloatAcquire(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public float getAndSetFloatRelease(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            return getAndSetFloatReleaseInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float getAndSetFloatReleaseInternal(MemorySessionImpl session, Object base, long offset, float value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndSetFloatRelease(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public float getAndAddFloat(MemorySessionImpl session, Object base, long offset, float delta) {
+        try {
+            return getAndAddFloatInternal(session, base, offset, delta);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float getAndAddFloatInternal(MemorySessionImpl session, Object base, long offset, float delta) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndAddFloat(base, offset, delta);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public float getAndAddFloatAcquire(MemorySessionImpl session, Object base, long offset, float delta) {
+        try {
+            return getAndAddFloatAcquireInternal(session, base, offset, delta);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float getAndAddFloatAcquireInternal(MemorySessionImpl session, Object base, long offset, float delta) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndAddFloatAcquire(base, offset, delta);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public float getAndAddFloatRelease(MemorySessionImpl session, Object base, long offset, float delta) {
+        try {
+            return getAndAddFloatReleaseInternal(session, base, offset, delta);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private float getAndAddFloatReleaseInternal(MemorySessionImpl session, Object base, long offset, float delta) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndAddFloatRelease(base, offset, delta);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+

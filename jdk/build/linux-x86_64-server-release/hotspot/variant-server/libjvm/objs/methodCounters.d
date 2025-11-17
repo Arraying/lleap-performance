@@ -1,0 +1,25 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/methodCounters.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/methodCounters.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/cdsConfig.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/compiler_globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/compilerOracle.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopsHierarchy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/istream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspaceClosure.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/method.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/methodCounters.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/trainingData.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/compactHashtable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/compilerDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/instanceKlass.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/objArrayKlass.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/resizableHashTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.inline.hpp

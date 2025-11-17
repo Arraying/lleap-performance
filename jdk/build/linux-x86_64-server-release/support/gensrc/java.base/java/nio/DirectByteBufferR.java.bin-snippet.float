@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    public ByteBuffer putFloat(float x) {
+
+
+
+
+        throw new ReadOnlyBufferException();
+
+    }
+
+    public ByteBuffer putFloat(int i, float x) {
+
+
+
+
+        throw new ReadOnlyBufferException();
+
+    }
+
+    public FloatBuffer asFloatBuffer() {
+        int off = this.position();
+        int lim = this.limit();
+        assert (off <= lim);
+        int rem = (off <= lim ? lim - off : 0);
+
+        int size = rem >> 2;
+        if (!UNALIGNED && ((address + off) % (1 << 2) != 0)) {
+            return (bigEndian
+                    ? (FloatBuffer)(new ByteBufferAsFloatBufferRB(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment))
+                    : (FloatBuffer)(new ByteBufferAsFloatBufferRL(this,
+                                                                       -1,
+                                                                       0,
+                                                                       size,
+                                                                       size,
+                                                                       address + off, segment)));
+        } else {
+            return (nativeByteOrder
+                    ? (FloatBuffer)(new DirectFloatBufferRU(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment))
+                    : (FloatBuffer)(new DirectFloatBufferRS(this,
+                                                                 -1,
+                                                                 0,
+                                                                 size,
+                                                                 size,
+                                                                 off, segment)));
+        }
+    }
+

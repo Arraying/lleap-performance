@@ -1,0 +1,1 @@
+BUILD_LIBAWT_awt_LoadLibrary.c_VARDEPS_old := -Wno-unused-result

@@ -1,0 +1,30 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/preservedMarks.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/preservedMarks.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/fullGCForwarding.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/fullGCForwarding.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/memRegion.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/markWord.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopsHierarchy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/preservedMarks.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/preservedMarks.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/padded.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/stack.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/stack.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/copy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/workerThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/workerUtils.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cppstdlib/type_traits.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/metaprogramming/enableIf.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutex.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp

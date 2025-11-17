@@ -1,0 +1,21 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/vmError_posix.o: \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/vmError_posix.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/aotMetaspace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/memRegion.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/reservedSpace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/virtualspace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/cdsConfig.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/os_posix.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/javaThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/safefetch.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/safefetch_static.hpp \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/signals_posix.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/vmError.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp

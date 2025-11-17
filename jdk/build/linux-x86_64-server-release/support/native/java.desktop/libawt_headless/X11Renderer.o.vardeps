@@ -1,0 +1,1 @@
+BUILD_LIBAWT_HEADLESS_X11Renderer.c_VARDEPS_old := -Wno-unused-function

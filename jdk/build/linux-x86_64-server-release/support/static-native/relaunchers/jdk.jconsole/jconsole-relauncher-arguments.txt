@@ -1,0 +1,1 @@
+-DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=jconsole -DjavaLauncherArgs=-J--add-opens||||-Jjava.base/java.io=jdk.jconsole||||-J--add-modules||||-JALL-DEFAULT||||-J-Djconsole.showOutputViewer||||-J-Djdk.attach.allowAttachSelf=true||||-J-Xms8m||||-m||||jdk.jconsole/sun.tools.jconsole.JConsole

@@ -1,0 +1,26 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/loaderConstraints.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/loaderConstraints.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/classLoaderData.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/classLoaderDataGraph.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/classLoaderData.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/growableArray.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/dictionary.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/concurrentHashTable.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutex.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalCounter.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/padded.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/tableStatistics.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/loaderConstraints.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopsHierarchy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/klass.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/symbolHandle.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/symbol.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/hashTable.hpp

@@ -1,0 +1,11 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/memMapPrinter_linux.o: \
+ /home/ph/jdks/jdk/src/hotspot/os/linux/memMapPrinter_linux.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/nmt/memMapPrinter.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/nmt/memTag.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/os/linux/procMapsParser.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/powerOfTwo.hpp

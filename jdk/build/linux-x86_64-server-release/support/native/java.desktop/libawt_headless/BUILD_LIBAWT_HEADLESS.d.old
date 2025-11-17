@@ -1,0 +1,520 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/AccelGlyphCache.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/font/AccelGlyphCache.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/font/AccelGlyphCache.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/font/fontscalerdefs.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/font/sunfontids.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/CUPSfuncs.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/CUPSfuncs.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/GLXGraphicsConfig.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXGraphicsConfig.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_GLXGraphicsConfig.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXGraphicsConfig.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glx.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/khrplatform.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glxext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_AffineTransformOp.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_hw_AccelSurface.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncs.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/OGLFuncs_md.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext_OGLContextCaps.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXSurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_p.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/color.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_GraphicsEnv.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_util.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/GLXSurfaceData.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXSurfaceData.c \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_GLXSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLRenderQueue.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext_OGLContextCaps.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/khrplatform.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_AffineTransformOp.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_hw_AccelSurface.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncs.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/OGLFuncs_md.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glx.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glxext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXGraphicsConfig.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLContext.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXSurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_p.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/color.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_Component.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_GraphicsEnv.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/HeadlessToolkit.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt_headless/awt/HeadlessToolkit.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLBlitLoops.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLBlitLoops.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLBufImgOps.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLBufImgOps.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLContext.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLContext.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLFuncs.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncs.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLMaskBlit.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLMaskBlit.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLMaskFill.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLMaskFill.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLPaints.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLPaints.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLRenderQueue.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLRenderQueue.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLRenderer.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLRenderer.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLSurfaceData.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLTextRenderer.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLTextRenderer.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/OGLVertexCache.o: \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLVertexCache.c
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/X11Color.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/X11Color.c \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_p.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/color.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_SystemColor.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_color_ColorSpace.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Transparency.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_DataBuffer.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_colors.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/imageInitIDs.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/dither.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/X11FontScaler_md.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11FontScaler_md.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/font/fontscalerdefs.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/font/AccelGlyphCache.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/font/fontscalerdefs.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/font/sunfontids.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/font/X11FontScaler.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/X11PMBlitLoops.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11PMBlitLoops.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_p.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/color.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_GraphicsEnv.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXGraphicsConfig.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glx.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/khrplatform.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glxext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_AffineTransformOp.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_hw_AccelSurface.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncs.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/OGLFuncs_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext_OGLContextCaps.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/utility/rect.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/X11Renderer.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11Renderer.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_x11_X11Renderer.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_p.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/color.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_GraphicsEnv.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXGraphicsConfig.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glx.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/khrplatform.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glxext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_AffineTransformOp.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_hw_AccelSurface.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncs.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/OGLFuncs_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext_OGLContextCaps.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ProcessPath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/X11SurfaceData.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11SurfaceData.c \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11SurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_p.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_util.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/color.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_GraphicsEnv.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXGraphicsConfig.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glx.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/khrplatform.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glxext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_AffineTransformOp.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLSurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_hw_AccelSurface.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncs.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/OGLFuncs_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext_OGLContextCaps.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/utility/rect.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_Component.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/X11TextRenderer_md.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11TextRenderer_md.c \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/awt_Font.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_Font.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Font.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_FontDescriptor.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_PlatformFont.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/fontpath.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/fontpath.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/utility/sizecalc.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_headless/systemScale.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/systemscale/systemScale.c \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/systemscale/systemScale.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AlphaComposite.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Font.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_SystemColor.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_Transparency.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_color_ColorSpace.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_AffineTransformOp.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_image_DataBuffer.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_FontDescriptor.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_PlatformFont.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_GLXGraphicsConfig.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_GLXSurfaceData.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLContext_OGLContextCaps.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_opengl_OGLSurfaceData.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_BufferedContext.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_pipe_hw_AccelSurface.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_java2d_x11_X11Renderer.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h :
+/home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/gdefs.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/gdefs_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/utility/sizecalc.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/font/AccelGlyphCache.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/font/AccelGlyphCache.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/font/fontscalerdefs.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/font/sunfontids.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/gl.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/glext.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/J2D_GL/khrplatform.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLBlitLoops.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLBufImgOps.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLContext.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLContext.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncMacros.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncs.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLFuncs.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLMaskBlit.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLMaskFill.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLPaints.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLRenderQueue.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLRenderQueue.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLRenderer.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLSurfaceData.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLTextRenderer.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/common/java2d/opengl/OGLVertexCache.c :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_colors.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/cvutils/img_globals.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/dither.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/awt/image/imageInitIDs.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/SurfaceData.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/Trace.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/AlphaMath.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GlyphImageRef.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/GraphicsPrimitiveMgr.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/loops/ProcessPath.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/Region.h :
+/home/ph/jdks/jdk/src/java.desktop/share/native/libawt/java2d/pipe/SpanIterator.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/CUPSfuncs.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/X11Color.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_Component.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_Font.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_GraphicsEnv.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_p.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/awt_util.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/color.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/colordata.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/fontpath.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/systemscale/systemScale.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/systemscale/systemScale.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/awt/utility/rect.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/font/X11FontScaler.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXGraphicsConfig.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXGraphicsConfig.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXSurfaceData.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/GLXSurfaceData.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glx.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/J2D_GL/glxext.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/opengl/OGLFuncs_md.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11FontScaler_md.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11PMBlitLoops.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11Renderer.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11SurfaceData.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11SurfaceData.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/common/java2d/x11/X11TextRenderer_md.c :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/libawt/java2d/j2d_md.h :
+/home/ph/jdks/jdk/src/java.desktop/unix/native/libawt_headless/awt/HeadlessToolkit.c :

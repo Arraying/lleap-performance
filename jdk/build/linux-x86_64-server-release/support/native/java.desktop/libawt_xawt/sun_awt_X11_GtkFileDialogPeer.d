@@ -1,0 +1,21 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_xawt/sun_awt_X11_GtkFileDialogPeer.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt_xawt/awt/sun_awt_X11_GtkFileDialogPeer.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt_xawt/awt/gtk_interface.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/sun_awt_X11_GtkFileDialogPeer.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_FileDialog.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_util.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_mem.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_assert.h \
+ /home/ph/jdks/jdk/src/java.desktop/share/native/common/awt/debug/debug_trace.h

@@ -1,0 +1,587 @@
+    @ForceInline
+    public boolean getBoolean(MemorySessionImpl session, Object base, long offset) {
+        try {
+            return getBooleanInternal(session, base, offset);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getBooleanInternal(MemorySessionImpl session, Object base, long offset) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getBoolean(base, offset);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public void putBoolean(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            putBooleanInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private void putBooleanInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            UNSAFE.putBoolean(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+
+    @ForceInline
+    public boolean getBooleanVolatile(MemorySessionImpl session, Object base, long offset) {
+        try {
+            return getBooleanVolatileInternal(session, base, offset);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getBooleanVolatileInternal(MemorySessionImpl session, Object base, long offset) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getBooleanVolatile(base, offset);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public void putBooleanVolatile(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            putBooleanVolatileInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private void putBooleanVolatileInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            UNSAFE.putBooleanVolatile(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getBooleanAcquire(MemorySessionImpl session, Object base, long offset) {
+        try {
+            return getBooleanAcquireInternal(session, base, offset);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getBooleanAcquireInternal(MemorySessionImpl session, Object base, long offset) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getBooleanAcquire(base, offset);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public void putBooleanRelease(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            putBooleanReleaseInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private void putBooleanReleaseInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            UNSAFE.putBooleanRelease(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getBooleanOpaque(MemorySessionImpl session, Object base, long offset) {
+        try {
+            return getBooleanOpaqueInternal(session, base, offset);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getBooleanOpaqueInternal(MemorySessionImpl session, Object base, long offset) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getBooleanOpaque(base, offset);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+    @ForceInline
+    public void putBooleanOpaque(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            putBooleanOpaqueInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private void putBooleanOpaqueInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            UNSAFE.putBooleanOpaque(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+    @ForceInline
+    public boolean compareAndSetBoolean(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            return compareAndSetBooleanInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean compareAndSetBooleanInternal(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.compareAndSetBoolean(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean compareAndExchangeBoolean(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            return compareAndExchangeBooleanInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean compareAndExchangeBooleanInternal(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.compareAndExchangeBoolean(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean compareAndExchangeBooleanAcquire(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            return compareAndExchangeBooleanAcquireInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean compareAndExchangeBooleanAcquireInternal(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.compareAndExchangeBooleanAcquire(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean compareAndExchangeBooleanRelease(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            return compareAndExchangeBooleanReleaseInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean compareAndExchangeBooleanReleaseInternal(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.compareAndExchangeBooleanRelease(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean weakCompareAndSetBooleanPlain(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            return weakCompareAndSetBooleanPlainInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean weakCompareAndSetBooleanPlainInternal(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.weakCompareAndSetBooleanPlain(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean weakCompareAndSetBoolean(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            return weakCompareAndSetBooleanInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean weakCompareAndSetBooleanInternal(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.weakCompareAndSetBoolean(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean weakCompareAndSetBooleanAcquire(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            return weakCompareAndSetBooleanAcquireInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean weakCompareAndSetBooleanAcquireInternal(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.weakCompareAndSetBooleanAcquire(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean weakCompareAndSetBooleanRelease(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            return weakCompareAndSetBooleanReleaseInternal(session, base, offset, expected, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean weakCompareAndSetBooleanReleaseInternal(MemorySessionImpl session, Object base, long offset, boolean expected, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.weakCompareAndSetBooleanRelease(base, offset, expected, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getAndSetBoolean(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndSetBooleanInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndSetBooleanInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndSetBoolean(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getAndSetBooleanAcquire(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndSetBooleanAcquireInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndSetBooleanAcquireInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndSetBooleanAcquire(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getAndSetBooleanRelease(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndSetBooleanReleaseInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndSetBooleanReleaseInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndSetBooleanRelease(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+
+    @ForceInline
+    public boolean getAndBitwiseOrBoolean(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndBitwiseOrBooleanInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndBitwiseOrBooleanInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndBitwiseOrBoolean(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getAndBitwiseOrBooleanAcquire(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndBitwiseOrBooleanAcquireInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndBitwiseOrBooleanAcquireInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndBitwiseOrBooleanAcquire(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getAndBitwiseOrBooleanRelease(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndBitwiseOrBooleanReleaseInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndBitwiseOrBooleanReleaseInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndBitwiseOrBooleanRelease(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getAndBitwiseAndBoolean(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndBitwiseAndBooleanInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndBitwiseAndBooleanInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndBitwiseAndBoolean(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getAndBitwiseAndBooleanAcquire(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndBitwiseAndBooleanAcquireInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndBitwiseAndBooleanAcquireInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndBitwiseAndBooleanAcquire(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getAndBitwiseAndBooleanRelease(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndBitwiseAndBooleanReleaseInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndBitwiseAndBooleanReleaseInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndBitwiseAndBooleanRelease(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getAndBitwiseXorBoolean(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndBitwiseXorBooleanInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndBitwiseXorBooleanInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndBitwiseXorBoolean(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getAndBitwiseXorBooleanAcquire(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndBitwiseXorBooleanAcquireInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndBitwiseXorBooleanAcquireInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndBitwiseXorBooleanAcquire(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }
+
+    @ForceInline
+    public boolean getAndBitwiseXorBooleanRelease(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            return getAndBitwiseXorBooleanReleaseInternal(session, base, offset, value);
+        } catch (ScopedAccessError ex) {
+            throw ex.newRuntimeException();
+        }
+    }
+
+    @ForceInline @Scoped
+    private boolean getAndBitwiseXorBooleanReleaseInternal(MemorySessionImpl session, Object base, long offset, boolean value) {
+        try {
+            if (session != null) {
+                session.checkValidStateRaw();
+            }
+            return UNSAFE.getAndBitwiseXorBooleanRelease(base, offset, value);
+        } finally {
+            Reference.reachabilityFence(session);
+        }
+    }

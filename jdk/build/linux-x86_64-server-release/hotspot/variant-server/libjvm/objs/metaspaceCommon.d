@@ -1,0 +1,26 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/metaspaceCommon.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/metaspaceCommon.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/freeBlocks.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/binList.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/counters.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cppstdlib/type_traits.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/metablock.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/metaspaceCommon.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/compressedKlass.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/blockTree.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/chunklevel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/metaspaceSettings.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/virtualSpaceNode.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/memRegion.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/commitMask.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/bitMap.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/rootChunkArea.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/reservedSpace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp

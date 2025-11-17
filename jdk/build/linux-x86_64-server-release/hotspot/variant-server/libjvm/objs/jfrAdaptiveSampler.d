@@ -1,0 +1,18 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/jfrAdaptiveSampler.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/jfr/support/jfrAdaptiveSampler.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/jfr/support/jfrAdaptiveSampler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/jfr/utilities/jfrAllocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/jfr/utilities/jfrRandom.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/jfr/utilities/jfrRandom.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/jfr/utilities/jfrSpinlockHelper.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/javaThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/jfr/utilities/jfrTime.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/jfr/utilities/jfrTimeConverter.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/jfr/utilities/jfrTryLock.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/orderAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp

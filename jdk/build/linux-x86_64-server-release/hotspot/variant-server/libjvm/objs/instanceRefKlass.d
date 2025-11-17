@@ -1,0 +1,19 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/instanceRefKlass.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/instanceRefKlass.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cds/cdsConfig.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/classFileParser.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/referenceType.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/annotations.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/constantPool.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/fieldInfo.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/instanceKlass.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/typeArrayOop.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/accessFlags.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/javaClasses.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/vmClasses.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/vmSymbols.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/instanceRefKlass.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.inline.hpp

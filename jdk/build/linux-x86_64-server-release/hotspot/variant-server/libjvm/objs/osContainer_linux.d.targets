@@ -1,0 +1,12 @@
+/home/ph/jdks/jdk/src/hotspot/os/linux/osContainer_linux.cpp :
+/home/ph/jdks/jdk/src/hotspot/os/linux/cgroupSubsystem_linux.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp :
+/home/ph/jdks/jdk/src/hotspot/os/linux/osContainer_linux.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp :
+/home/ph/jdks/jdk/src/hotspot/os/linux/os_linux.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/globals.hpp :

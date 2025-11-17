@@ -1,0 +1,1 @@
+BUILD_LIBJAVAJPEG_jcmaster.c_VARDEPS_old := -Wno-implicit-fallthrough

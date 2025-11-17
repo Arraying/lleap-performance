@@ -1,0 +1,15 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/metachunkList.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/metachunkList.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/metachunkList.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/counters.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/cppstdlib/type_traits.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/metachunk.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/chunklevel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/metaspace/metaspaceCommon.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/compressedKlass.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp

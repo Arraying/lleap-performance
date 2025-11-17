@@ -1,0 +1,31 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/foreignGlobals_x86_64.o: \
+ /home/ph/jdks/jdk/src/hotspot/cpu/x86/foreignGlobals_x86_64.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/javaClasses.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/jniHandles.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/jniHandles.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/access.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/typeArrayOop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopCast.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopsHierarchy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/prims/foreignGlobals.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/prims/foreignGlobals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/vmreg.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/prims/vmstorage.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/checkedCast.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/cpu/x86/vmstorage_x86.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/asm/register.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/vmreg.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/sharedRuntime.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/growableArray.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/cpu/x86/foreignGlobals_x86.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/asm/macroAssembler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/objArrayOop.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/formatBuffer.hpp

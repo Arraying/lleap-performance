@@ -1,0 +1,1 @@
+-DjavaLauncherArgFiles=false -DjavaLauncherProgname=javadoc -DjavaLauncherArgs=-J--add-modules||||-JALL-DEFAULT||||-J-Xms8m||||-m||||jdk.javadoc/jdk.javadoc.internal.tool.Main

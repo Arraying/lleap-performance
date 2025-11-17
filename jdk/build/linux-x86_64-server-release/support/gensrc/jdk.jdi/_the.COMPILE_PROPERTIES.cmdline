@@ -1,0 +1,16 @@
+-compile
+/home/ph/jdks/jdk/src/jdk.jdi/share/classes/com/sun/tools/jdi/resources/jdi.properties
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/gensrc/jdk.jdi/com/sun/tools/jdi/resources/jdi.java
+ListResourceBundle
+-compile
+/home/ph/jdks/jdk/src/jdk.jdi/share/classes/com/sun/tools/jdi/resources/jdi_de.properties
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/gensrc/jdk.jdi/com/sun/tools/jdi/resources/jdi_de.java
+ListResourceBundle
+-compile
+/home/ph/jdks/jdk/src/jdk.jdi/share/classes/com/sun/tools/jdi/resources/jdi_ja.properties
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/gensrc/jdk.jdi/com/sun/tools/jdi/resources/jdi_ja.java
+ListResourceBundle
+-compile
+/home/ph/jdks/jdk/src/jdk.jdi/share/classes/com/sun/tools/jdi/resources/jdi_zh_CN.properties
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/gensrc/jdk.jdi/com/sun/tools/jdi/resources/jdi_zh_CN.java
+ListResourceBundle

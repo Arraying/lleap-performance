@@ -1,0 +1,19 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/jvmFlagLimit.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/flags/jvmFlagLimit.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/jvmFlagConstraintsGC.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/flags/jvmFlag.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/g1/jvmFlagConstraintsG1.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/parallel/jvmFlagConstraintsParallel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/markWord.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/flags/jvmFlagAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/flags/jvmFlagConstraintsCompiler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/flags/jvmFlagConstraintsRuntime.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/flags/jvmFlagLimit.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/globals_extension.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/task.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/vmError.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp

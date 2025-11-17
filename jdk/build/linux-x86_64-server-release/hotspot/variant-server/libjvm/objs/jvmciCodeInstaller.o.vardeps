@@ -1,0 +1,1 @@
+BUILD_LIBJVM_jvmciCodeInstaller.cpp_VARDEPS_old := -Wno-stringop-overflow

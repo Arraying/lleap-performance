@@ -1,0 +1,4 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/linux_x86_64.o: \
+ /home/ph/jdks/jdk/src/hotspot/os_cpu/linux_x86/linux_x86_64.S \
+ /home/ph/jdks/jdk/make/data/autoheaders/assemblyprefix.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/defs.S.inc

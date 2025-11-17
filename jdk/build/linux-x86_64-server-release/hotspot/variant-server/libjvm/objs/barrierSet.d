@@ -1,0 +1,20 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/barrierSet.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/barrierSet.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/barrierSet.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/barrierSetAssembler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/cpu/x86/gc/shared/barrierSetAssembler_x86.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/asm/macroAssembler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/access.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/opto/optoreg.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/gensrc/adfiles/adGlobals_x86.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/barrierSetNMethod.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopsHierarchy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/formatBuffer.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/sizes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/barrierSetStackChunk.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/continuation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/javaThread.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp

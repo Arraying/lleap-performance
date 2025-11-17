@@ -1,0 +1,1 @@
+BUILD_LIBJVM_jfrMemorySizer.cpp_VARDEPS_old := -Wno-unused-const-variable

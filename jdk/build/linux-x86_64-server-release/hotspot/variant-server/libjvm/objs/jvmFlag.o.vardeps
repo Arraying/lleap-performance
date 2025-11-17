@@ -1,0 +1,1 @@
+BUILD_LIBJVM_jvmFlag.cpp_VARDEPS_old := -Wno-unused-const-variable

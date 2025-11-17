@@ -1,0 +1,7 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.desktop/libawt_xawt/awt_AWTEvent.o: \
+ /home/ph/jdks/jdk/src/java.desktop/unix/native/libawt_xawt/awt/awt_AWTEvent.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_AWTEvent.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_event_InputEvent.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.desktop/java_awt_event_KeyEvent.h

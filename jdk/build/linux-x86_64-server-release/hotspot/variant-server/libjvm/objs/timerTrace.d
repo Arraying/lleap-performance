@@ -1,0 +1,7 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/timerTrace.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/timerTrace.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/timerTrace.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/timer.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp

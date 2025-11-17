@@ -1,0 +1,6 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/jdk.jpackage/jpackageapplauncher/LinuxLauncher.o: \
+ /home/ph/jdks/jdk/src/jdk.jpackage/linux/native/applauncher/LinuxLauncher.c \
+ /home/ph/jdks/jdk/src/jdk.jpackage/share/native/applauncher/JvmLauncher.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/jdk.jpackage/linux/native/applauncher/LinuxPackage.h

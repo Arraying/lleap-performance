@@ -1,0 +1,14 @@
+/home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.cpp :
+/home/ph/jdks/jdk/src/hotspot/share/gc/shared/gc_globals.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/logging/logStream.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/universe.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/javaThread.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/safepoint.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/runtime/vmThread.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/vmError.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp :
+/home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp :

@@ -1,0 +1,6 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/symbolHandle.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/symbolHandle.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/symbolHandle.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/symbol.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp

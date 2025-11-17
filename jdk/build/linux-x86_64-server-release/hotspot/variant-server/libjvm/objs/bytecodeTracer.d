@@ -1,0 +1,33 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/bytecodeTracer.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/bytecodeTracer.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/classPrinter.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allStatic.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/classfile/javaClasses.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/bytecodeHistogram.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/bytecodes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/bytecodeStream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/bytecode.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/method.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/bytes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/bytecodeTracer.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/interpreter.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/constantPool.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/constantPool.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/cpCache.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/cpCache.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oopHandle.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/resolvedFieldEntry.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/instanceKlass.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/checkedCast.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/sizes.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/resolvedIndyEntry.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/resolvedMethodEntry.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/methodData.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/osThread.hpp

@@ -1,0 +1,20 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/shenandoahTaskqueue.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shenandoah/shenandoahTaskqueue.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shenandoah/shenandoahHeap.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shenandoah/shenandoahTaskqueue.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shenandoah/shenandoahTaskqueue.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/taskqueue.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/gc/shared/taskqueue.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logStream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/orderAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/stack.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/stack.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/copy.hpp

@@ -1,0 +1,1 @@
+-DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=jinfo -DjavaLauncherArgs=-J-Dsun.jvm.hotspot.debugger.useProcDebugger||||-J-Dsun.jvm.hotspot.debugger.useWindbgDebugger||||-J-Xms8m||||-m||||jdk.jcmd/sun.tools.jinfo.JInfo

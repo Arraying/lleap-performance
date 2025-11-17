@@ -1,0 +1,33 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/codeBuffer.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/asm/codeBuffer.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/asm/codeBuffer.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/aotCodeCache.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/stubInfo.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/compiledIC.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/nativeInst.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/interpreter/linkResolver.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/safepointVerifiers.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/oopRecorder.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/oopRecorder.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/universe.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/disassembler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/asm/assembler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/codeBlob.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/code/nmethod.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/abstractDisassembler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/globals.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/macros.hpp \
+ /home/ph/jdks/jdk/src/hotspot/cpu/x86/disassembler_x86.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/klass.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/methodCounters.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/methodData.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/icache.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/copy.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/powerOfTwo.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/xmlstream.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/handles.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp

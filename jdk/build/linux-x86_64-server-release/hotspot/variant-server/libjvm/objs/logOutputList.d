@@ -1,0 +1,8 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/logOutputList.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logOutputList.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logLevel.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/logging/logOutputList.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/atomicAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/runtime/orderAccess.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp

@@ -1,0 +1,1 @@
+BUILD_LIBJVM_jfrTraceIdKlassQueue.cpp_VARDEPS_old := -Wno-unused-const-variable

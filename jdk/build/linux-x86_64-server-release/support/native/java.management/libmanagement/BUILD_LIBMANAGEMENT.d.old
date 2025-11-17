@@ -1,0 +1,143 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.management/libmanagement/ClassLoadingImpl.o: \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/ClassLoadingImpl.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jmm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_ClassLoadingImpl.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.management/libmanagement/GarbageCollectorImpl.o: \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/GarbageCollectorImpl.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jmm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_GarbageCollectorImpl.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.management/libmanagement/HotspotThread.o: \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/HotspotThread.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jmm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_HotspotThread.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.management/libmanagement/MemoryImpl.o: \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/MemoryImpl.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jmm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_MemoryImpl.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.management/libmanagement/MemoryManagerImpl.o: \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/MemoryManagerImpl.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jmm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_MemoryManagerImpl.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.management/libmanagement/MemoryPoolImpl.o: \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/MemoryPoolImpl.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jmm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_MemoryPoolImpl.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.management/libmanagement/ThreadImpl.o: \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/ThreadImpl.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jmm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_ThreadImpl.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.management/libmanagement/VMManagementImpl.o: \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/VMManagementImpl.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jmm.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_VMManagementImpl.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/native/java.management/libmanagement/management.o: \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.c \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h \
+ /home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h \
+ /home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h \
+ /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h \
+ /home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h \
+ /home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.h \
+ /home/ph/jdks/jdk/src/hotspot/share/include/jmm.h
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_ClassLoadingImpl.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_GarbageCollectorImpl.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_HotspotThread.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_MemoryImpl.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_MemoryManagerImpl.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_MemoryPoolImpl.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_ThreadImpl.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/headers/java.management/sun_management_VMManagementImpl.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/classfile_constants.h :
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/support/modules_include/java.base/jni.h :
+/home/ph/jdks/jdk/src/hotspot/os/posix/include/jvm_md.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jmm.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_constants.h :
+/home/ph/jdks/jdk/src/hotspot/share/include/jvm_io.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jlong.h :
+/home/ph/jdks/jdk/src/java.base/share/native/libjava/jni_util.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/include/jni_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jlong_md.h :
+/home/ph/jdks/jdk/src/java.base/unix/native/libjava/jni_util_md.h :
+/home/ph/jdks/jdk/src/java.management/share/native/libmanagement/ClassLoadingImpl.c :
+/home/ph/jdks/jdk/src/java.management/share/native/libmanagement/GarbageCollectorImpl.c :
+/home/ph/jdks/jdk/src/java.management/share/native/libmanagement/HotspotThread.c :
+/home/ph/jdks/jdk/src/java.management/share/native/libmanagement/MemoryImpl.c :
+/home/ph/jdks/jdk/src/java.management/share/native/libmanagement/MemoryManagerImpl.c :
+/home/ph/jdks/jdk/src/java.management/share/native/libmanagement/MemoryPoolImpl.c :
+/home/ph/jdks/jdk/src/java.management/share/native/libmanagement/ThreadImpl.c :
+/home/ph/jdks/jdk/src/java.management/share/native/libmanagement/VMManagementImpl.c :
+/home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.c :
+/home/ph/jdks/jdk/src/java.management/share/native/libmanagement/management.h :

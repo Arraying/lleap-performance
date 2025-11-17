@@ -1,0 +1,100 @@
+
+    /**
+     * Relative <i>get</i> method for reading a char value.
+     *
+     * <p> Reads the next two bytes at this buffer's current position,
+     * composing them into a char value according to the current byte order,
+     * and then increments the position by two.  </p>
+     *
+     * @return  The char value at the buffer's current position
+     *
+     * @throws  BufferUnderflowException
+     *          If there are fewer than two bytes
+     *          remaining in this buffer
+     */
+    public abstract char getChar();
+
+    /**
+     * Relative <i>put</i> method for writing a char
+     * value&nbsp;&nbsp;<i>(optional operation)</i>.
+     *
+     * <p> Writes two bytes containing the given char value, in the
+     * current byte order, into this buffer at the current position, and then
+     * increments the position by two.  </p>
+     *
+     * @param  value
+     *         The char value to be written
+     *
+     * @return  This buffer
+     *
+     * @throws  BufferOverflowException
+     *          If there are fewer than two bytes
+     *          remaining in this buffer
+     *
+     * @throws  ReadOnlyBufferException
+     *          If this buffer is read-only
+     */
+    public abstract ByteBuffer putChar(char value);
+
+    /**
+     * Absolute <i>get</i> method for reading a char value.
+     *
+     * <p> Reads two bytes at the given index, composing them into a
+     * char value according to the current byte order.  </p>
+     *
+     * @param  index
+     *         The index from which the bytes will be read
+     *
+     * @return  The char value at the given index
+     *
+     * @throws  IndexOutOfBoundsException
+     *          If {@code index} is negative
+     *          or not smaller than the buffer's limit,
+     *          minus one
+     */
+    public abstract char getChar(int index);
+
+    /**
+     * Absolute <i>put</i> method for writing a char
+     * value&nbsp;&nbsp;<i>(optional operation)</i>.
+     *
+     * <p> Writes two bytes containing the given char value, in the
+     * current byte order, into this buffer at the given index.  </p>
+     *
+     * @param  index
+     *         The index at which the bytes will be written
+     *
+     * @param  value
+     *         The char value to be written
+     *
+     * @return  This buffer
+     *
+     * @throws  IndexOutOfBoundsException
+     *          If {@code index} is negative
+     *          or not smaller than the buffer's limit,
+     *          minus one
+     *
+     * @throws  ReadOnlyBufferException
+     *          If this buffer is read-only
+     */
+    public abstract ByteBuffer putChar(int index, char value);
+
+    /**
+     * Creates a view of this byte buffer as a char buffer.
+     *
+     * <p> The content of the new buffer will start at this buffer's current
+     * position.  Changes to this buffer's content will be visible in the new
+     * buffer, and vice versa; the two buffers' position, limit, and mark
+     * values will be independent.
+     *
+     * <p> The new buffer's position will be zero, its capacity and its limit
+     * will be the number of bytes remaining in this buffer divided by
+     * two, its mark will be undefined, and its byte order will be that
+     * of the byte buffer at the moment the view is created.  The new buffer
+     * will be direct if, and only if, this buffer is direct, and it will be
+     * read-only if, and only if, this buffer is read-only.  </p>
+     *
+     * @return  A new char buffer
+     */
+    public abstract CharBuffer asCharBuffer();
+

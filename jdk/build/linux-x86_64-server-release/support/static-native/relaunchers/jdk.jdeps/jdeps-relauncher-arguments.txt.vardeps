@@ -1,0 +1,1 @@
+jdeps_VARDEPS_old := -DjavaLauncherArgFiles=false -DjavaLauncherProgname=jdeps -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jdeps/com.sun.tools.jdeps.Main

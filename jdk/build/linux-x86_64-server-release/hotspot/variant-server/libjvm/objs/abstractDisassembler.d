@@ -1,0 +1,10 @@
+/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/abstractDisassembler.o: \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/abstractDisassembler.cpp \
+ /home/ph/jdks/jdk/src/hotspot/share/asm/assembler.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/asm/assembler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/cpu/x86/assembler_x86.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/compiler/abstractDisassembler.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/oops/oop.inline.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
+ /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp
