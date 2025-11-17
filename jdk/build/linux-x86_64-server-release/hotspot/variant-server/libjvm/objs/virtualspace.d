@@ -1,9 +1,0 @@
-/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/virtualspace.o: \
- /home/ph/jdks/jdk/src/hotspot/share/memory/virtualspace.cpp \
- /home/ph/jdks/jdk/src/hotspot/share/gc/shared/gc_globals.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/memory/reservedSpace.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/memory/virtualspace.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/runtime/os.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/utilities/align.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/utilities/debug.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp

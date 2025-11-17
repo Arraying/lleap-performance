@@ -1,1 +1,0 @@
-BUILD_LIBSAPROC_ps_core.c_VARDEPS_old := -Wno-pointer-arith

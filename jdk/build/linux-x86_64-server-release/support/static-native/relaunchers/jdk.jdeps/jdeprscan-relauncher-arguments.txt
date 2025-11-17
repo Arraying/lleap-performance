@@ -1,1 +1,0 @@
--DjavaLauncherArgFiles=false -DjavaLauncherProgname=jdeprscan -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jdeps/com.sun.tools.jdeprscan.Main

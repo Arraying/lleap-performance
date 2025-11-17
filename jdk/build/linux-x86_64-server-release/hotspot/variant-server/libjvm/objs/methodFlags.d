@@ -1,4 +1,0 @@
-/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/methodFlags.o: \
- /home/ph/jdks/jdk/src/hotspot/share/oops/methodFlags.cpp \
- /home/ph/jdks/jdk/src/hotspot/share/oops/methodFlags.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/utilities/ostream.hpp

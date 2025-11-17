@@ -1,1 +1,0 @@
--DjavaLauncherArgFiles=false -DjavaLauncherProgname=jnativescan -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jdeps/com.sun.tools.jnativescan.Main

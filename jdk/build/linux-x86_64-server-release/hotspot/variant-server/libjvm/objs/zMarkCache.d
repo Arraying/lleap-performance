@@ -1,9 +1,0 @@
-/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/zMarkCache.o: \
- /home/ph/jdks/jdk/src/hotspot/share/gc/z/zMarkCache.cpp \
- /home/ph/jdks/jdk/src/hotspot/share/gc/z/zMarkCache.inline.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/gc/z/zMarkCache.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/gc/z/zGlobals.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/memory/allocation.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/gc/z/zPage.inline.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/utilities/globalDefinitions.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/utilities/powerOfTwo.hpp

@@ -1,1 +1,0 @@
-BUILD_LIBAWT_Region.c_VARDEPS_old := -Wno-maybe-uninitialized

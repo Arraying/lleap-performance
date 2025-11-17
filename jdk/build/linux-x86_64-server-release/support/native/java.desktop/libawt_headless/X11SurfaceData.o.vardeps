@@ -1,1 +1,0 @@
-BUILD_LIBAWT_HEADLESS_X11SurfaceData.c_VARDEPS_old := -Wno-unused-function

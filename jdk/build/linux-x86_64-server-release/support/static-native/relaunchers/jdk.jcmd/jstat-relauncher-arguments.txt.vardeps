@@ -1,1 +1,0 @@
-jstat_VARDEPS_old := -DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=jstat -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jcmd/sun.tools.jstat.Jstat

@@ -1,1 +1,0 @@
-BUILD_LIBJVM_handshake.cpp_VARDEPS_old := -Wno-stringop-overflow

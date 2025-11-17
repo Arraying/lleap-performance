@@ -1,1 +1,0 @@
-BUILD_LIBAWT_SurfaceData.c_VARDEPS_old := -Wno-unused-value

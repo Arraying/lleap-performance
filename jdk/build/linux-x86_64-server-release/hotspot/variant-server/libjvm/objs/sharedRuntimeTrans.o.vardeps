@@ -1,1 +1,0 @@
-BUILD_LIBJVM_sharedRuntimeTrans.cpp_VARDEPS_old := -ffp-contract=off -O2

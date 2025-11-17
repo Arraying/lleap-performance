@@ -1,1 +1,0 @@
-BUILD_LIBJVM_javaClasses.cpp_VARDEPS_old := -Wno-unused-const-variable

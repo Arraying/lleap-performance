@@ -1,6 +1,0 @@
-/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/vm_version.o: \
- /home/ph/jdks/jdk/src/hotspot/share/runtime/vm_version.cpp \
- /home/ph/jdks/jdk/src/hotspot/share/logging/log.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/logging/logStream.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/memory/resourceArea.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/runtime/vm_version.hpp

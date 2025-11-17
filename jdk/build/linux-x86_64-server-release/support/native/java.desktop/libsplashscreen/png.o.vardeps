@@ -1,1 +1,0 @@
-BUILD_LIBSPLASHSCREEN_png.c_VARDEPS_old := -Wno-maybe-uninitialized -Wno-unused-function

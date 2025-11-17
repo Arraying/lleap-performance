@@ -1,1 +1,0 @@
-cd /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/interim-image-jlink && /usr/bin/rm -f -r /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/interim-image

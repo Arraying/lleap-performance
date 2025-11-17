@@ -1,1 +1,0 @@
-jimage_VARDEPS_old := -DjavaLauncherWildcards=false -DjavaLauncherProgname=jimage -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jlink/jdk.tools.jimage.Main

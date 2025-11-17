@@ -1,1 +1,0 @@
-BUILD_LIBVERIFY_check_code.c_VARDEPS_old := -Wno-unused-variable

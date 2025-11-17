@@ -1,1 +1,0 @@
--DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=jpackage -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jpackage/jdk.jpackage.main.Main

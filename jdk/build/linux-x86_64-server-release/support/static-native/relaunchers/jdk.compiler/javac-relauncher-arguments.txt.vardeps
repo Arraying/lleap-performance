@@ -1,1 +1,0 @@
-javac_VARDEPS_old := -DjavaLauncherArgFiles=false -DjavaLauncherProgname=javac -DjavaLauncherArgs=-J--add-modules||||-JALL-DEFAULT||||-J-Xms8m||||-m||||jdk.compiler/com.sun.tools.javac.Main

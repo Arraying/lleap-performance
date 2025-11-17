@@ -1,1 +1,0 @@
-BUILD_LIBSYSLOOKUP_VARDEPS_old := /usr/bin/gcc -Wl,-z,defs -Wl,-z,relro -Wl,-z,now -Wl,--no-as-needed -Wl,--exclude-libs,ALL -Wl,-z,noexecstack -Wl,-O1 -m64 -shared -Wl,--no-as-needed -Wl,-soname=libsyslookup.so -ldl -lm --strip-debug

@@ -1,1 +1,0 @@
-jstatd_VARDEPS_old := -DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=jstatd -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jstatd/sun.tools.jstatd.Jstatd

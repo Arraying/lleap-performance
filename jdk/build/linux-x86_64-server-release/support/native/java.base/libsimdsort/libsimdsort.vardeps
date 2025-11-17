@@ -1,1 +1,0 @@
-BUILD_LIBSIMD_SORT_VARDEPS_old := /usr/bin/g++ -Wl,-z,defs -Wl,-z,relro -Wl,-z,now -Wl,--no-as-needed -Wl,--exclude-libs,ALL -Wl,-z,noexecstack -Wl,-O1 -m64 -shared -Wl,-z,origin -Wl,-rpath,\$$ORIGIN -Wl,--disable-new-dtags -Wl,-soname=libsimdsort.so -static-libstdc++ -static-libgcc -lm --strip-debug

@@ -1,1 +1,0 @@
-BUILD_JAVA_MANIFEST_VARDEPS_old := /usr/bin/cat /usr/bin/sed -e 's|@@VERSION_SPECIFICATION@@|26|g' -e 's|@@VERSION_SHORT@@|26-internal|g' -e 's|@@COMPANY_NAME@@|N/A|g'

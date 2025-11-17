@@ -1,1 +1,0 @@
-jmod_VARDEPS_old := -DjavaLauncherProgname=jmod -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jlink/jdk.tools.jmod.Main

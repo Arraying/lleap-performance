@@ -1,1 +1,0 @@
-BUILD_LIBSPLASHSCREEN_splashscreen_sys.c_VARDEPS_old := -Wno-type-limits -Wno-unused-but-set-variable -Wno-unused-result -Wno-unused-variable

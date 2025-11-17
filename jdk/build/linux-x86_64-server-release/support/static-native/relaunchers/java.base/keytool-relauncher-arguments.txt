@@ -1,1 +1,0 @@
--DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=keytool -DjavaLauncherArgs=-J-Xms8m||||-m||||java.base/sun.security.tools.keytool.Main

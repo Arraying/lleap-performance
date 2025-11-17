@@ -1,1 +1,0 @@
-BUILD_LIBAWT_XAWT_XRBackendNative.c_VARDEPS_old := -Wno-maybe-uninitialized

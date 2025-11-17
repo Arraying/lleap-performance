@@ -1,1 +1,0 @@
-cd /home/ph/jdks/jdk && /usr/bin/rm -f /home/ph/jdks/jdk/build/linux-x86_64-server-release/images/jmods/jdk.jcmd.jmod /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/images/jmods/jdk.jcmd.jmod

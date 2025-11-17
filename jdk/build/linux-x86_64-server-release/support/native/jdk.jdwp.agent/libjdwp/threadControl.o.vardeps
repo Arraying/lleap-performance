@@ -1,1 +1,0 @@
-BUILD_LIBJDWP_threadControl.c_VARDEPS_old := -Wno-unused-but-set-variable -Wno-unused-variable

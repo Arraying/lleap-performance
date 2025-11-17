@@ -1,1 +1,0 @@
--DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=jarsigner -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jartool/sun.security.tools.jarsigner.Main

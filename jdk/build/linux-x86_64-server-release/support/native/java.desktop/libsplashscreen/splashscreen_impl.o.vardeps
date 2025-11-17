@@ -1,1 +1,0 @@
-BUILD_LIBSPLASHSCREEN_splashscreen_impl.c_VARDEPS_old := -Wno-implicit-fallthrough -Wno-sign-compare -Wno-unused-function

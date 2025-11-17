@@ -1,1 +1,0 @@
-BUILD_LIBJAVAJPEG_imageioJPEG.c_VARDEPS_old := -Wno-array-bounds -Wno-clobbered -Wno-unused-but-set-variable

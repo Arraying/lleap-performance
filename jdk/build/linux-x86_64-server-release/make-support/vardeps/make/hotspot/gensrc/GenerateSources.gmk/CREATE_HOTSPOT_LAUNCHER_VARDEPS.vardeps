@@ -1,1 +1,0 @@
-CREATE_HOTSPOT_LAUNCHER_VARDEPS_old := /usr/bin/cat /usr/bin/sed -e 's|@@LIBARCH@@|amd64|g' -e 's|@@JDK_IMPORT_PATH@@|/home/ph/jdks/jdk/build/linux-x86_64-server-release/jdk|g' -e 's|DUMMY_REPLACEMENT|DUMMY_REPLACEMENT|g'

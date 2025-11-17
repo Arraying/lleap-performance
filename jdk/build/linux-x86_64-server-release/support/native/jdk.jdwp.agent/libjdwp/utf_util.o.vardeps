@@ -1,1 +1,0 @@
-BUILD_LIBJDWP_utf_util.c_VARDEPS_old := -Wno-unused-but-set-variable

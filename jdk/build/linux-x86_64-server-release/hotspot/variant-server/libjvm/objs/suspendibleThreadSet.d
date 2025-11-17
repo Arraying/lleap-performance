@@ -1,7 +1,0 @@
-/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/suspendibleThreadSet.o: \
- /home/ph/jdks/jdk/src/hotspot/share/gc/shared/suspendibleThreadSet.cpp \
- /home/ph/jdks/jdk/src/hotspot/share/gc/shared/gc_globals.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/gc/shared/suspendibleThreadSet.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/runtime/javaThread.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/runtime/mutexLocker.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/runtime/semaphore.hpp

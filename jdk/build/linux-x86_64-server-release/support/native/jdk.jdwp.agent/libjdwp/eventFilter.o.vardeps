@@ -1,1 +1,0 @@
-BUILD_LIBJDWP_eventFilter.c_VARDEPS_old := -Wno-unused-variable

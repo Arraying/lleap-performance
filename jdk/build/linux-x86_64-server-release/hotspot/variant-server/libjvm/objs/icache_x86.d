@@ -1,6 +1,0 @@
-/home/ph/jdks/jdk/build/linux-x86_64-server-release/hotspot/variant-server/libjvm/objs/icache_x86.o: \
- /home/ph/jdks/jdk/src/hotspot/cpu/x86/icache_x86.cpp \
- /home/ph/jdks/jdk/src/hotspot/share/asm/macroAssembler.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/runtime/flags/flagSetting.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/runtime/globals_extension.hpp \
- /home/ph/jdks/jdk/src/hotspot/share/runtime/icache.hpp

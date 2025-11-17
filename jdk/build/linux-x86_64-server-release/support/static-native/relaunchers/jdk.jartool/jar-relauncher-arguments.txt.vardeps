@@ -1,1 +1,0 @@
-jar_VARDEPS_old := -DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=jar -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jartool/sun.tools.jar.Main

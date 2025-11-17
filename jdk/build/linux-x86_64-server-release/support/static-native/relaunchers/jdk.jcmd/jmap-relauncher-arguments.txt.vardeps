@@ -1,1 +1,0 @@
-jmap_VARDEPS_old := -DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=jmap -DjavaLauncherArgs=-J-Dsun.jvm.hotspot.debugger.useProcDebugger||||-J-Dsun.jvm.hotspot.debugger.useWindbgDebugger||||-J-Xms8m||||-m||||jdk.jcmd/sun.tools.jmap.JMap

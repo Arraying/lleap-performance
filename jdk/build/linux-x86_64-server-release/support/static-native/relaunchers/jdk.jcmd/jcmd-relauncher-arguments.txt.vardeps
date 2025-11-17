@@ -1,1 +1,0 @@
-jcmd_VARDEPS_old := -DjavaLauncherArgFiles=false -DjavaLauncherWildcards=false -DjavaLauncherProgname=jcmd -DjavaLauncherArgs=-J-Xms8m||||-m||||jdk.jcmd/sun.tools.jcmd.JCmd

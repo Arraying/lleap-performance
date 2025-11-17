@@ -1,1 +1,0 @@
-(cd /home/ph/jdks/jdk/src/demo/share/jfc/Notepad/ && /usr/bin/zip -qru /home/ph/jdks/jdk/build/linux-x86_64-server-release/support/demos/image/jfc/Stylepad/src.zip . -x \*_the.\* -x README.txt || test "$?" = "12" )

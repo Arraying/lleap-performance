@@ -1,1 +1,0 @@
-server__gen_cds_archive_jre_VARDEPS_old := /home/ph/jdks/jdk/build/linux-x86_64-server-release/images/jre/bin/java -Xshare:dump -XX:SharedArchiveFile=/home/ph/jdks/jdk/build/linux-x86_64-server-release/images/jre/lib/server/classes.jsa -server -XX:+UnlockExperimentalVMOptions -XX:-UseCompactObjectHeaders -Xmx128M -Xms128M -XX:+UseG1GC > /dev/null
