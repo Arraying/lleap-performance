@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "Installing sound dependencies"
+sudo apt-get update
 sudo apt-get install -y libasound2-dev
 echo "Installing printer dependencies"
 sudo apt-get install -y libcups2-dev
@@ -17,6 +18,6 @@ echo "Cleaning the boot JDK"
 rm support/jdk-25_linux-x64_bin.tar.gz
 
 # Incremental build
-echo "Incrementally building initial JDK"
-cd ./jdk && make images
+echo "Setting up JDK for building"
+cd ./jdk && bash configure
 
