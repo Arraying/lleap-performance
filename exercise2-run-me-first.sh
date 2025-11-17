@@ -19,5 +19,5 @@ rm support/jdk-25_linux-x64_bin.tar.gz
 
 # Incremental build
 echo "Setting up JDK for building"
-cd ./jdk && bash configure
+cd ./jdk && bash configure --with-boot-jdk=../support/jdk-25.0.1
 
