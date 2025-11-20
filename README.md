@@ -81,7 +81,7 @@ You have to **set up your codespace** before you can build the JDK:
 
 #### Step 2: Adding your flag values and building the JDK
 
-The flag defaults are in `src/hotspot/share/gc/shared/tlab_globals.hpp`.
+The flag defaults are in `jdk/src/hotspot/share/gc/shared/tlab_globals.hpp`.
 You can update these values using your editor.
 
 Once you've made your changes, you can build the binaries. **This will take 20-45 minutes!**
